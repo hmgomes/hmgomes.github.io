@@ -42,22 +42,22 @@ News 2020
 * (August 2020) The MOA Lab is opening in August 2020
 
 * (July 2020) scikit-multiflow and papers
- * Paper accepted on Discovery Science 2020. 
- * Presented the tutorial entitled 'Machine learning  for data streams in Python with scikit-multi flow' at IJCNN 2020 with Jacob Montiel, Jesse Read and Albert Bifet. 
+    * Paper accepted on Discovery Science 2020. 
+    * Presented the tutorial entitled 'Machine learning  for data streams in Python with scikit-multi flow' at IJCNN 2020 with Jacob Montiel, Jesse Read and Albert Bifet. 
 
 * (June 2020) COMPX523 wrap-up and papers!
- * Paper accepted on DAWAK 2020. 
- * COMPX523 (Data stream mining) 2020 has ended. It was interesting to teach over Zoom, but I prefer to teach in a classroom. 
+    * Paper accepted on DAWAK 2020. 
+    * COMPX523 (Data stream mining) 2020 has ended. It was interesting to teach over Zoom, but I prefer to teach in a classroom. 
 
 * (May 2020) Chaired a Session for PAKDD 2020
- * [Sequential/Dynamic Data + Recommendation System (2) + Novel Algorithm PAKDD Session](https://www.pakdd2020.org/program.html#s6). This was nice and a bit exhausting (3 hours+). 
+    * [Sequential/Dynamic Data + Recommendation System (2) + Novel Algorithm PAKDD Session](https://www.pakdd2020.org/program.html#s6). This was nice and a bit exhausting (3 hours+). 
 
 * (April 2020) Honour Roll of Outstanding Reviewers for PAKDD 2020
     * Twenty-two reviewers (out of more than four hundred) were selected to the [Honour Roll of Outstanding Reviewers for PAKDD 2020](https://www.pakdd2020.org/programcommittee.html). I am one of the twenty-two :)
 
 * (March 2020) COMPX523 and paper
- * Paper accepted on IJCAI 2020
- * COMPX523 Data stream mining paper started at UoW. It was quickly moved to online teaching due to the lockdown. 
+    * Paper accepted on IJCAI 2020
+    * COMPX523 Data stream mining paper started at UoW. It was quickly moved to online teaching due to the lockdown. 
 
 * (February 2020) Papers accepted on IJCNN 2020
 
