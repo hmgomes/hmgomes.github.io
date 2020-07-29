@@ -11,7 +11,7 @@ title                    : "Heitor Gomes / Machine Learning for Data Streams"
 title_separator          : "-"
 name                     : &name "Heitor Gomes"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hmgomes.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hmgomes/hmgomes.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Heitor Gomes"
-  avatar           : "profile.png"
+  name             : "Heitor Murilo Gomes"
+  avatar           : "profile.jpg"
   bio              : "I am currently a senior research fellow at the University of Waikato in the machine learning group. My main research area is Machine Learning, specially Evolving Data Streams, Concept Drift, Ensemble methods and Big Data Streams. 
 I contribute to both MOA and StreamDM open data stream mining projects."
   location         : "New Zealand"
@@ -104,13 +104,13 @@ I contribute to both MOA and StreamDM open data stream mining projects."
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/hmgomes/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5276-637X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -229,14 +229,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""
