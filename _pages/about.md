@@ -20,12 +20,10 @@ Projects
 Selected Papers
 ======
 
-* [Streaming Random Patches for Evolving Data Stream Classification](https://www.researchgate.net/publication/338943432_Streaming_Random_Patches_for_Evolving_Data_Stream_Classification)
-H M Gomes, J Read, A Bifet.
-
-IEEE International Conference on Data Mining (ICDM), 2019.
-
-DOI: https://doi.org/10.1109/ICDM.2019.00034
+* **Streaming Random Patches for Evolving Data Stream Classification** 
+ * [Download](https://www.researchgate.net/publication/338943432_Streaming_Random_Patches_for_Evolving_Data_Stream_Classification)
+ * H M Gomes, J Read, A Bifet. IEEE International Conference on Data Mining (ICDM), 2019. 
+ * **DOI:** https://doi.org/10.1109/ICDM.2019.00034
 ​
 The Streaming Random Patches (SRP) algorithm outperforms the current state-of-the-art ensemble methods for evolving data stream classification. 
 
@@ -55,7 +53,7 @@ News 2020
  * [Sequential/Dynamic Data + Recommendation System (2) + Novel Algorithm PAKDD Session](https://www.pakdd2020.org/program.html#s6). This was nice and a bit exhausting (3 hours+). 
 
 * (April 2020) Honour Roll of Outstanding Reviewers for PAKDD 2020
- * Twenty-two reviewers (out of more than four hundred) were selected to the [Honour Roll of Outstanding Reviewers for PAKDD 2020](https://www.pakdd2020.org/programcommittee.html). I am one of the twenty-two :)
+    * Twenty-two reviewers (out of more than four hundred) were selected to the [Honour Roll of Outstanding Reviewers for PAKDD 2020](https://www.pakdd2020.org/programcommittee.html). I am one of the twenty-two :)
 
 * (March 2020) COMPX523 and paper
  * Paper accepted on IJCAI 2020
