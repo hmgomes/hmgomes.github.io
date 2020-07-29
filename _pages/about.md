@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a machine learning researcher and developer. I mostly work with streaming data sources and developing novel learning algorithms, adapt existing ones with the sole goal of solving real-world problems. 
-** Warning: This website is under construction** 
+**Warning: This website is under construction.** The official website still [this one](https://heitormurilogomes.wixsite.com/heitor-murilo-gomes).
 
 Projects
 ======
