@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a machine learning researcher and developer.  
-**Warning: This website is under construction.** The official website still [this one](https://heitormurilogomes.wixsite.com/heitor-murilo-gomes).
+**Warning: This website is under construction.** The official website is still [this](https://heitormurilogomes.wixsite.com/heitor-murilo-gomes).
 
 Projects
 ======
@@ -20,21 +20,28 @@ Projects
 Selected Papers
 ======
 
-* **Streaming Random Patches for Evolving Data Stream Classification** 
- * [Download](https://www.researchgate.net/publication/338943432_Streaming_Random_Patches_for_Evolving_Data_Stream_Classification)
- * H M Gomes, J Read, A Bifet. IEEE International Conference on Data Mining (ICDM), 2019. 
- * **DOI:** https://doi.org/10.1109/ICDM.2019.00034
-​
-The Streaming Random Patches (SRP) algorithm outperforms the current state-of-the-art ensemble methods for evolving data stream classification. 
+### Streaming Random Patches for Evolving Data Stream Classification 
 
-* [Machine learning for streaming data: state of the art, challenges, and opportunities**](https://www.researchgate.net/publication/337581742_Machine_learning_for_streaming_data_state_of_the_art_challenges_and_opportunities)
+H M Gomes, J Read, A Bifet. 
+
+IEEE International Conference on Data Mining (ICDM), 2019. 
+
+**DOI:** [https://doi.org/10.1109/ICDM.2019.00034](https://doi.org/10.1109/ICDM.2019.00034)
+
+
+
+The Streaming Random Patches (SRP) algorithm outperforms the current state-of-the-art ensemble methods for evolving data stream classification. [Access Paper](https://www.researchgate.net/publication/338943432_Streaming_Random_Patches_for_Evolving_Data_Stream_Classification)
+
+
+### Machine learning for streaming data: state of the art, challenges, and opportunities
 
 H M Gomes, J Read, A Bifet, J P Barddal, J Gama
+
 SIGKDD Explorations Newsletter, ACM , 2019.
 
-DOI: https://doi.org/10.1145/3373464.3373470
+DOI: [https://doi.org/10.1145/3373464.3373470](https://doi.org/10.1145/3373464.3373470)
  
-In this work, we focus on elucidating the connections among the current stateof- the-art on related fields; and clarifying open challenges in both academia and industry. 
+In this work, we focus on elucidating the connections among the current stateof- the-art on related fields; and clarifying open challenges in both academia and industry. [Access Paper](https://www.researchgate.net/publication/337581742_Machine_learning_for_streaming_data_state_of_the_art_challenges_and_opportunities)
 
 News 2020
 ======
