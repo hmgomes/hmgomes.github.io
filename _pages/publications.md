@@ -9,10 +9,28 @@ author_profile: true
 ​
 
 
-Last update on August 2020. 
+_Last update on September 2020._
 {: .notice}
 
 ## 2020
+
+* **Survey on Feature Transformation Techniques for Data Streams.** 
+M Bahri, A Bifet, S Maniu, H M Gomes. International Joint Conference on Artificial Intelligence (IJCAI), 2020.
+
+* **Unsupervised Concept Drift Detection using a Student–Teacher Approach.**
+V Cerqueira, H M Gomes, A Bifet. International Conference on Discovery Science (DS), 2020.
+
+* **Mining Attribute Evolution Rules in Dynamic Attributed Graphs.** 
+P Fournier-Viger, G He, J Chun-Wei Lin, H M Gomes. International Conference on Big Data Analytics and Knowledge Discovery (DAWAK), 2020.
+
+* **On Ensemble Techniques for Data Stream Regression.**
+H M Gomes, J Montiel, S M Mastelini, B Pfahringer, A Bifet. International Joint Conference on Neural Networks (IJCNN), 2020.
+
+* **Performance measures for evolving predictions under delayed labelling classification.**
+M Grzenda, H M Gomes, A Bifet. International Joint Conference on Neural Networks (IJCNN), 2020.
+
+* **CS-ARF: Compressed Adaptive Random Forests for Evolving Data Stream Classification.**
+M Bahri, H M Gomes, A Bifet, S Maniu. International Joint Conference on Neural Networks (IJCNN), 2020.
 
 ## 2019
 
@@ -47,7 +65,7 @@ L E Boiko Ferreira, H M Gomes, A Bifet, L S Oliveira. International Joint Confer
 * **Boosting decision stumps for dynamic feature selection on data streams.**
 J P Barddal, F Enembreck, H M Gomes, A Bifet, B Pfahringer. Information Systems, 2019
 
-**Merit-guided Dynamic Feature Selection Filter for Data Streams.**
+* **Merit-guided Dynamic Feature Selection Filter for Data Streams.**
 J P Barddal, F Enembreck, H M Gomes, A Bifet, B Pfahringer. Expert Systems with Applications, 2019, [DOI](https://doi.org/10.1016/j.eswa.2018.09.031)
 
 * **On Social Network-Based Algorithms for Data Stream Clustering.**
