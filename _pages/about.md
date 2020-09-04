@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Heitor Gomes"
+title: "Heitor Murilo Gomes"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
