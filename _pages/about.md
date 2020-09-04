@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-I am a machine learning researcher and developer.  
-**Warning: This website is under construction.** The official website is still [this](https://heitormurilogomes.wixsite.com/heitor-murilo-gomes).
+I am a machine learning researcher and developer working at the University of Waikato (New Zealand). 
 
 Selected Publications
 ======
