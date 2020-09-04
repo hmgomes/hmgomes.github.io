@@ -44,36 +44,32 @@ Work experience
 Service
 ======
 
-## Reviewer and/or PC member
-
-### Journals
-Neurocomputing (Elsevier) - 2016, 2017
-Transactions on Big Data (IEEE) - 2017
-International Journal of Data Science and Analytics (Springer) - 2017
-Information Systems - 2017
-Data Mining and Knowledge Discovery - 2018, 2019, 2020
-TKDE - 2018, 2019, 2020
-IEEE Access - 2019
-Journal of Machine Learning (JMLR) - 2019, 2020
-Knowledge and Information Systems (KAIS) - 2019
+### Reviewer and/or PC member: Journals
+Neurocomputing (Elsevier) - 2016, 2017; 
+Transactions on Big Data (IEEE) - 2017; 
+International Journal of Data Science and Analytics (Springer) - 2017; 
+Information Systems - 2017; 
+Data Mining and Knowledge Discovery - 2018, 2019, 2020; 
+TKDE - 2018, 2019, 2020; 
+IEEE Access - 2019; 
+Journal of Machine Learning (JMLR) - 2019, 2020; 
+Knowledge and Information Systems (KAIS) - 2019; 
 ​
-### Conferences
-SIGKDD - 2019, 2020
-ECML - 2019, 2020
-PAKDD - 2018, 2019, 2020
-IJCAI - 2018, 2019, 2020, 2021
-AAAI - 2019, 2020, 2021
-ICDM - 2017
-IEEE International Conference on Big Data - 2017
-ICONIP 2019
-ESANN 2019
-ACM SAC - 2017, 2018, 2019, 2020
+### Reviewer and/or PC member: Conferences
+SIGKDD - 2019, 2020; 
+ECML - 2019, 2020; 
+PAKDD - 2018, 2019, 2020; 
+IJCAI - 2018, 2019, 2020, 2021; 
+AAAI - 2019, 2020, 2021; 
+ICDM - 2017; 
+IEEE International Conference on Big Data - 2017; 
+ICONIP 2019; 
+ESANN 2019; 
+ACM SAC - 2017, 2018, 2019, 2020; 
 ​
-
 ### Others
-Ad-hoc Reviewer for Chile Research Commission CONICYT - 2017
-Udacity Machine Learning Engineer Nanodegree - 2016, 2017, 2018, 2019, 2020
-
+Ad-hoc Reviewer for Chile Research Commission CONICYT - 2017;
+Udacity Machine Learning Engineer Nanodegree - 2016, 2017, 2018, 2019, 2020;
 
 ### Chair, Co-chair or Organizer
 
@@ -107,7 +103,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Students
-======
-* a
+
