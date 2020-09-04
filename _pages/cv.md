@@ -94,7 +94,7 @@ Grants, Awards and Honors
 
 Publications
 ======
-  See {%site.publications%}
+  See my [publications page](http://heitorgomes.com/publications/). 
   
 Talks
 ======
@@ -108,6 +108,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Students
 ======
-* Currently signed in to 43 different slack teams
+* a
