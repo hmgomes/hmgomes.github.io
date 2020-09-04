@@ -4,7 +4,7 @@ collection: talks
 type: "Seminar"
 permalink: /talks/2019-LIAAD-Seminar-Porto
 venue: "INESC-TEC"
-date: 2014-03-01
+date: 2019-11-15
 location: "Porto, Portugal"
 ---
 

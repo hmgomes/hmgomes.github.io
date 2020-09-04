@@ -4,7 +4,7 @@ collection: talks
 type: "Lecture"
 permalink: /talks/2019-IOT-Stream-Paris
 venue: "Telecom Paris"
-date: 2014-03-01
+date: 2019-11-20
 location: "Paris, France"
 ---
 
