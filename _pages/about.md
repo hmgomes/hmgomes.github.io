@@ -40,6 +40,7 @@ News 2020
 
 * (September 2020) New website
     * Going through the process of migrating stuff from the old website to the new one. 
+    * I am co-chair of the DS track on ACM SAC 2021. [Read more](https://www.cs.waikato.ac.nz/~abifet/SAC2021/)
 
 * (August 2020) The MOA Lab
     * The MOA Lab is open (University of Waikato, FG Link build). 

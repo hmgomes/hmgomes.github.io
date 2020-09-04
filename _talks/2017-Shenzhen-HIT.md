@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-Shenzhen-HIT
 venue: "Harbin Institute of Technology"
-date: 2017-07
+date: 2017-07-01
 location: "Shenzhen, China"
 ---
 
