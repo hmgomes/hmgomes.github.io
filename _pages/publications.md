@@ -21,6 +21,12 @@ M Bahri, A Bifet, S Maniu, H M Gomes. International Joint Conference on Artifici
 * **Unsupervised Concept Drift Detection using a Student–Teacher Approach.**
 V Cerqueira, H M Gomes, A Bifet. International Conference on Discovery Science (DS), 2020.
 
+* **No Need to Teach New Tricks to Old Malware: Winning an Evasion Challenge with XOR-based Adversarial Samples.**
+F Ceschin, M Botacin, G Lüders, H M Gomes, L Oliveirea and A Grégio. Reversing and Offensive-oriented Trends Symposium (ROOTS), ACM, 2020.
+
+* **C-SMOTE: Continuous Synthetic Minority Oversampling for Evolving Data Streams.**
+A Bernardo, H M Gomes, J Montiel, B Pfahringer, A Bifet, and E D Valle. IEEE Big Data, 2020.
+
 * **Mining Attribute Evolution Rules in Dynamic Attributed Graphs.** 
 P Fournier-Viger, G He, J Chun-Wei Lin, H M Gomes. International Conference on Big Data Analytics and Knowledge Discovery (DAWAK), 2020.
 

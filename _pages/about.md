@@ -37,9 +37,14 @@ This paper presents an efficent version of the classical Random Forests algorith
 News 2020
 ======
 
+* (October 2020) Papers, Students and ICDM2021
+    * Papers accepted at IEEE Big Data 2020 and ROOTS 2020
+    * Appointment as one of the virtual chairs of ICDM 2021
+    * Master and one honour students are finishing this month
+    
 * (September 2020) New website
     * Going through the process of migrating stuff from the old website to the new one. 
-    * I am co-chair of the DS track on ACM SAC 2021. [Read more](https://www.cs.waikato.ac.nz/~abifet/SAC2021/)
+    * I am co-chair of the DS track at ACM SAC 2021. [Read more](https://www.cs.waikato.ac.nz/~abifet/SAC2021/)
     * Attending ECML 2020. 
 
 * (August 2020) The MOA Lab
@@ -47,13 +52,13 @@ News 2020
     * One week vacations in the South Island :)
 
 * (July 2020) scikit-multiflow and papers
-    * Paper accepted on Discovery Science 2020. 
+    * Paper accepted at Discovery Science 2020. 
     * Presented the tutorial entitled 'Machine learning  for data streams in Python with scikit-multi flow' at IJCNN 2020 with Jacob Montiel, Jesse Read and Albert Bifet. 
     * New MOA 20.07 release. [Read more](https://moa.cms.waikato.ac.nz/new-release-of-moa-20-07/). 
     * Blog entry about SRP on the MOA website. [Read more](https://moa.cms.waikato.ac.nz/streaming-random-patches/). 
 
 * (June 2020) COMPX523 wrap-up and papers!
-    * Paper accepted on DAWAK 2020. 
+    * Paper accepted at DAWAK 2020. 
     * COMPX523 (Data stream mining) 2020 has ended. It was interesting to teach over Zoom, but I prefer to teach in a classroom. 
 
 * (May 2020) Chaired a Session for PAKDD 2020
@@ -63,10 +68,10 @@ News 2020
     * Twenty-two reviewers (out of more than four hundred) were selected to the [Honour Roll of Outstanding Reviewers for PAKDD 2020](https://www.pakdd2020.org/programcommittee.html). I am one of the twenty-two :)
 
 * (March 2020) COMPX523 and paper
-    * Paper accepted on IJCAI 2020
+    * Paper accepted at IJCAI 2020
     * COMPX523 Data stream mining paper started at UoW. It was quickly moved to online teaching due to the lockdown. 
     * Tutorial 6: Building MOA from the source. [Read more](https://moa.cms.waikato.ac.nz/tutorial-6-building-moa-from-the-source/).
 
-* (February 2020) Papers accepted on IJCNN 2020
+* (February 2020) Three papers accepted at IJCNN 2020
 
 * (January 2020) Distributed ML DS Project kick-off
