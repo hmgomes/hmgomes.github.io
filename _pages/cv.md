@@ -73,6 +73,8 @@ Udacity Machine Learning Engineer Nanodegree - 2016, 2017, 2018, 2019, 2020;
 
 ### Chair, Co-chair or Organizer
 
+* IEEE International Conference on Data Mining (ICDM) 2021. Online Experience/Virtual Chair. Auckland, New Zealand. [Website](https://icdm2021.auckland.ac.nz/organisation/)
+
 * ACM Symposium on Applied Computing Data Streams Track. In conjunction with ACM Symposium on Applied Computing: The 36th Annual ACM Symposium on Applied Computing 2021. Gwangju, Korea. [Website](https://www.cs.waikato.ac.nz/~abifet/SAC2021/).
 
 * Second International Workshop on Energy Efficient Scalable Data Mining and Machine Learning. Co-located with ECML PKDD 2019. Würzburg, Germany. [Website](https://greendatamining.github.io/greendatamining19/). 

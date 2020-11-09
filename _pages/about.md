@@ -37,9 +37,13 @@ This paper presents an efficent version of the classical Random Forests algorith
 News 2020
 ======
 
-* (October 2020) Papers, Students and ICDM2021
+* (November 2020) Papers
+    * Paper accepted at HPCC 2020
+    * I am responsible for the international collaborations between UoW and Cardiff University w.r.t AI research
+
+* (October 2020) Papers, Students and IEEE ICDM 2021
     * Papers accepted at IEEE Big Data 2020 and ROOTS 2020
-    * Appointment as one of the virtual chairs of ICDM 2021
+    * I am the Online Experience/Virtual Chair of ICDM 2021
     * Master and one honour students are finishing this month
     
 * (September 2020) New website
@@ -48,7 +52,7 @@ News 2020
     * Attending ECML 2020. 
 
 * (August 2020) The MOA Lab
-    * The MOA Lab is open (University of Waikato, FG Link build). 
+    * The MOA Lab is open (University of Waikato, FG Link building). 
     * One week vacations in the South Island :)
 
 * (July 2020) scikit-multiflow and papers
