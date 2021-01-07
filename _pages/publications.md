@@ -10,7 +10,7 @@ On a separate note, my lattes CV is available in [here](http://lattes.cnpq.br/33
 ​
 
 
-_Last update on September 2020._
+_Last update on December 2020._
 {: .notice}
 
 ## 2020
@@ -20,6 +20,9 @@ M Bahri, A Bifet, S Maniu, H M Gomes. International Joint Conference on Artifici
 
 * **Unsupervised Concept Drift Detection using a Student–Teacher Approach.**
 V Cerqueira, H M Gomes, A Bifet. International Conference on Discovery Science (DS), 2020.
+
+* **Improving Parallel Performance of Ensemble Learners for Streaming Data Through Data Locality with Mini-Batching.** 
+G Cassales, H M Gomes, A Bifet, B Pfahringer, H Senger. The 22nd IEEE International Conference on High Performance Computing and Communications (HPCC), 2020.
 
 * **No Need to Teach New Tricks to Old Malware: Winning an Evasion Challenge with XOR-based Adversarial Samples.**
 F Ceschin, M Botacin, G Lüders, H M Gomes, L Oliveirea and A Grégio. Reversing and Offensive-oriented Trends Symposium (ROOTS), ACM, 2020.

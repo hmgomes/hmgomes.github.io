@@ -37,6 +37,11 @@ This paper presents an efficent version of the classical Random Forests algorith
 News 2020
 ======
 
+* (December 2020) Students, New MOA version
+    * New PhD student starting on February
+    * Organized a joint ML seminar with the University of Auckland
+    * A new MOA version was released (2020.12). Highlights: new feature analysis tab, new feature importance algorithms, new meta-classifiers for imbalanced classification, kNN for regression. A tutorial about using the novel feature analysis and feature importance tab is available [here](https://moa.cms.waikato.ac.nz/tutorial-7-feature-analysis-and-feature-importance-in-moa/). 
+
 * (November 2020) Papers
     * Paper accepted at HPCC 2020
     * I am responsible for the international collaborations between UoW and Cardiff University w.r.t AI research
@@ -44,7 +49,7 @@ News 2020
 * (October 2020) Papers, Students and IEEE ICDM 2021
     * Papers accepted at IEEE Big Data 2020 and ROOTS 2020
     * I am the Online Experience/Virtual Chair of ICDM 2021
-    * Master and one honour students are finishing this month
+    * Two master students and one honour student finished this month
     
 * (September 2020) New website
     * Going through the process of migrating stuff from the old website to the new one. 
