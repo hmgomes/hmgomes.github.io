@@ -32,7 +32,7 @@ Work experience
 ​
 * January 2015 – December 2015 (1 year) Mentoring of students for the Brazilian Educational Program in iOS Development (BEPiD) at Pontifícia Universidade Católica do Paraná, Curitiba, Brazil. 
 ​
-* February 2012 - September 2014 (2 years 8 months) Computer Science Professor at UTP University, Curitiba, Brazil
+* February 2012 - September 2014 (2 years 8 months) Computer Science Assistant Professor (Lecturer) at UTP University, Curitiba, Brazil
 ​
 * January 2011 – January 2012 (1 year 1 month) SAP Security Analyst at ExxonMobil, Curitiba, Brazil
 ​
@@ -49,23 +49,23 @@ Neurocomputing (Elsevier) - 2016, 2017;
 Transactions on Big Data (IEEE) - 2017; 
 International Journal of Data Science and Analytics (Springer) - 2017; 
 Information Systems - 2017; 
-Data Mining and Knowledge Discovery - 2018, 2019, 2020; 
+Data Mining and Knowledge Discovery - 2018, 2019, 2020, 2021; 
 TKDE - 2018, 2019, 2020; 
 IEEE Access - 2019; 
 Journal of Machine Learning (JMLR) - 2019, 2020; 
 Knowledge and Information Systems (KAIS) - 2019; 
 ​
 ### Reviewer and/or PC member: Conferences
-SIGKDD - 2019, 2020; 
-ECML - 2019, 2020; 
-PAKDD - 2018, 2019, 2020; 
+SIGKDD - 2019, 2020, 2021; 
+ECML - 2019, 2020, 2021; 
+PAKDD - 2018, 2019, 2020, 2021; 
 IJCAI - 2018, 2019, 2020, 2021; 
 AAAI - 2019, 2020, 2021; 
 ICDM - 2017; 
 IEEE International Conference on Big Data - 2017; 
 ICONIP 2019; 
 ESANN 2019; 
-ACM SAC - 2017, 2018, 2019, 2020; 
+ACM SAC - 2017, 2018, 2019, 2020, 2021; 
 ​
 ### Others
 Ad-hoc Reviewer for Chile Research Commission CONICYT - 2017;
