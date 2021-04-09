@@ -10,8 +10,21 @@ On a separate note, my lattes CV is available in [here](http://lattes.cnpq.br/33
 ​
 
 
-_Last update on December 2020._
+_Last update on April 2020._
 {: .notice}
+
+## 2021
+* **Learning From Evolving Data Streams Through Ensembles of Random Patches**
+H M Gomes, J Read, A Bifet, R J Durrant
+Knowledge and Information Systems (KAIS), (IN PRINT), 2021.
+
+* **River: machine learning for streaming data in Python**
+J Montiel, M Halford, S M Mastelini, G Bolmier, R Sourty, R Vaysse, A Zouitine, H M Gomes, J Read, T Abdessalem, A Bifet
+Journal of Machine Learning (JMLR), (to appear), 2021.
+
+* **Data Stream Analysis: Foundations, Major Tasks and Tools.** 
+M Bahri, A Bifet, J Gama, H M Gomes, S Maniu. 
+Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, (IN PRINT), 2021.
 
 ## 2020
 
