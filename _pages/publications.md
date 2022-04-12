@@ -5,26 +5,50 @@ permalink: /publications/
 author_profile: true
 ---
 
-If you are looking for a pdf for one of these publications, take a look at my [research gate profile](https://www.researchgate.net/profile/Heitor_Murilo_Gomes). Another option is my [google scholar profile](https://scholar.google.com/citations?user=DYVIl8oAAAAJ&hl=en). 
-On a separate note, my lattes CV is available in [here](http://lattes.cnpq.br/3390096702357536), but it is quite outdated. 
+If you are looking for a pdf for one of these publications, take a look at my [research gate profile](https://www.researchgate.net/profile/Heitor_Murilo_Gomes). 
+Another option is my [google scholar profile](https://scholar.google.com/citations?user=DYVIl8oAAAAJ&hl=en). 
+On a separate note, my lattes CV (Brazilian researchers platform) is available in [here](http://lattes.cnpq.br/3390096702357536), but it is quite outdated. 
 ​
 
 
-_Last update on April 2020._
+_Last update on April 2022._
 {: .notice}
 
+## 2022
+
+* **A Survey on Semi-Supervised Learning for Delayed Partially Labelled Data Streams.**
+H M Gomes, M Grzenda, R Mello, J Read, M Huong Le Nguyen, A Bifet. 
+ACM Computing Surveys, 2022. 
+
+* **Resource-aware edge-based stream analytics.** 
+I Petri, I Chirila, H M Gomes, A Bifet, O Rana. 
+IEEE Internet Computing, 2022. 
+
+* **An Eager Splitting Strategy for Online Decision Trees.** 
+C Manapragada, H M Gomes, M Salehi, A Bifet, G Webb. 
+Data Mining and Knowledge Discovery, Springer, 2022. 
+
 ## 2021
+
 * **Learning From Evolving Data Streams Through Ensembles of Random Patches**
 H M Gomes, J Read, A Bifet, R J Durrant
-Knowledge and Information Systems (KAIS), (IN PRINT), 2021.
+Knowledge and Information Systems (KAIS), 2021.
 
 * **River: machine learning for streaming data in Python**
 J Montiel, M Halford, S M Mastelini, G Bolmier, R Sourty, R Vaysse, A Zouitine, H M Gomes, J Read, T Abdessalem, A Bifet
-Journal of Machine Learning (JMLR), (to appear), 2021.
+Journal of Machine Learning (JMLR), 2021.
+
+* **Improving the performance of bagging ensembles for data streams through mini-batching.**
+G Cassales, H M Gomes, A Bifet, B Pfahringer, H Senger. 
+Information Sciences, 2021.
+
+* **Combining Static and Dynamic Analysis to Improve Machine Learning-based Malware Classification.**
+R Chanajitt, B Pfahringer, H M Gomes. 
+IEEE Data Science and Advanced Analytics (DSAA), 2021.
 
 * **Data Stream Analysis: Foundations, Major Tasks and Tools.** 
 M Bahri, A Bifet, J Gama, H M Gomes, S Maniu. 
-Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, (IN PRINT), 2021.
+Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2021.
 
 ## 2020
 

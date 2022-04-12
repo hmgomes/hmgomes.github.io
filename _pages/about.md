@@ -9,12 +9,18 @@ redirect_from:
 ---
 
 
-I am a machine learning researcher and developer working at the University of Waikato (New Zealand). 
+I am a machine learning researcher and developer working at the University of Waikato (New Zealand). As of 2021, I became the head of the MOA Lab and a Co-director of the [AI Institute](https://ai.waikato.ac.nz) at the University of Waikato. 
 
 Selected Publications
 ======
 
-### Streaming Random Patches for Evolving Data Stream Classification 
+### A Survey on Semi-Supervised Learning for Delayed Partially Labelled Data Streams
+H M Gomes, M Grzenda, R Mello, J Read, M H L Nguyen, A Bifet. ACM Computing Surveys, 2022.
+DOI: [https://doi.org/10.1145/3523055](https://doi.org/10.1145/3523055)
+
+We organise methods that leverage unlabelled data in a semi-supervised setting for streaming data. We also discuss the delayed labelling issue, which impacts both fully supervised and semi-supervised methods.
+
+### Streaming Random Patches for Evolving Data Stream Classification
 H M Gomes, J Read, A Bifet. IEEE International Conference on Data Mining (ICDM), 2019. DOI: [https://doi.org/10.1109/ICDM.2019.00034](https://doi.org/10.1109/ICDM.2019.00034)
 
 The Streaming Random Patches (SRP) algorithm outperforms the current state-of-the-art ensemble methods for evolving data stream classification. [Access Paper](https://www.researchgate.net/publication/338943432_Streaming_Random_Patches_for_Evolving_Data_Stream_Classification)
@@ -34,9 +40,27 @@ H M Gomes, A Bifet, J Read, ..., B Pfahringer, G Holmes, T Abdessalem. ACM Machi
  
 This paper presents an efficent version of the classical Random Forests algorithm for evolving data streams, namely the Adaptive Random Forest (ARF) algorithm. [Access Paper](https://www.researchgate.net/publication/317579226_Adaptive_random_forests_for_evolving_data_stream_classification)
 
-News 2020/2021!
+News 2022!
 ======
 
+* (March 2022) Paper accepted for publication at the DAMI journal
+
+* (February 2022) Papers, Collaborations
+    * Paper accepted for publication at the ACM Computing Surveys journal
+    * Paper accepted for publication at the IEEE Internet Computing journal
+    * Collaboration with Cardiff University in a resource-aware machine learning project
+    * MOU signed between University of Waikato and Universidade Federal do Parana
+
+* (January 2022) Paper accepted for publication at the DAMI journal
+
+<!-- * (December 2021) Papers
+    * 
+
+* (November 2021) Papers, MOA Lab, AI Institute
+    * Appointed as the head of the MOA Lab and Co-Director of the AI Institute
+    * Paper accepted for publication at DSAA conference
+    *  -->
+<!-- 
 * (April 2021) Papers, NZAI workshop, and AI Institute at UoW
     * Presenting at the first NZAI researchers workshop (Hobbiton)
     * Paper accepted for publication at the JMLR journal
@@ -51,8 +75,9 @@ News 2020/2021!
 
 * (January 2021) Papers and Tutorials
     * Paper accepted for publication at the WIRES DMKD journal
-    * Tutorial at IJCAI
+    * Tutorial at IJCAI -->
 
+<!--
 * (December 2020) Students, New MOA version
     * New PhD student starting on March 2021
     * Organized a joint ML seminar with the University of Auckland
@@ -99,4 +124,4 @@ News 2020/2021!
 
 * (February 2020) Three papers accepted for publication in IJCNN 2020
 
-* (January 2020) Distributed ML DS Project kick-off
+* (January 2020) Distributed ML DS Project kick-off -->

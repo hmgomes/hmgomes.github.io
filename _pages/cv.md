@@ -56,10 +56,10 @@ Journal of Machine Learning (JMLR) - 2019, 2020;
 Knowledge and Information Systems (KAIS) - 2019; 
 ​
 ### Reviewer and/or PC member: Conferences
-SIGKDD - 2019, 2020, 2021; 
-ECML - 2019, 2020, 2021; 
+SIGKDD - 2019, 2020, 2021, 2022; 
+ECML - 2019, 2020, 2021, 2022; 
 PAKDD - 2018, 2019, 2020, 2021; 
-IJCAI - 2018, 2019, 2020, 2021; 
+IJCAI - 2018, 2019, 2020, 2021, 2022; 
 AAAI - 2019, 2020, 2021; 
 ICDM - 2017; 
 IEEE International Conference on Big Data - 2017; 
@@ -69,7 +69,7 @@ ACM SAC - 2017, 2018, 2019, 2020, 2021;
 ​
 ### Others
 Ad-hoc Reviewer for Chile Research Commission CONICYT - 2017;
-Udacity Machine Learning Engineer Nanodegree - 2016, 2017, 2018, 2019, 2020;
+Udacity Machine Learning Engineer Nanodegree - 2016-2021;
 
 ### Chair, Co-chair or Organizer
 
