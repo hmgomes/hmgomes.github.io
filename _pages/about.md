@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am a machine learning researcher and developer working at the University of Waikato (New Zealand). As of 2021, I became the head of the MOA Lab and a Co-director of the [AI Institute](https://ai.waikato.ac.nz) at the University of Waikato. 
+I am a Machine Learning Researcher and Data Scientist. 
+As of 2022, I became a Lecturer in AI at the Victoria University of Wellington (New Zealand). 
+<!-- Previously, I am an associate researcher at the [AI Institute](https://ai.waikato.ac.nz) at the University of Waikato.  -->
 
 Selected Publications
 ======
@@ -43,7 +45,19 @@ This paper presents an efficent version of the classical Random Forests algorith
 News 2022!
 ======
 
-* (March 2022) Paper accepted for publication at the DAMI journal
+* (June 2022)
+    * PC Chair - Research of the [20th Australasian Data Mining Conference (AusDM22)](https://ausdm2022.blogs.auckland.ac.nz)
+
+* (May 2022)
+    * Joined the Victoria University of Wellington as a Lecturer in AI
+    * Paper accepted for publication at the Information Sciences journal
+
+* (April 2022) New papers & projects
+    * 2 Papers accepted for publication at IJCNN 2022
+    * Paper accepted for publication at the DAMI journal (ECML track)
+    * Collaboration with Influx energy on streaming analytics
+
+<!-- * (March 2022) Paper accepted for publication at the DAMI journal -->
 
 * (February 2022) Papers, Collaborations
     * Paper accepted for publication at the ACM Computing Surveys journal

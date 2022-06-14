@@ -18,11 +18,13 @@ Education
 Work experience
 ======
 
-* November 2019 – Current, Senior Research Fellow at the University of Waikato in the machine learning group, Hamilton, New Zealand.
+* May 2022 – Current, Lecturer (Assistant Professor) in Artificial Intelligence at Victoria University of Wellington, Wellington, New Zealand.
+​
+* November 2019 – May 2022, Senior Research Fellow and Co-Director of the AI Institute at the University of Waikato, Hamilton, New Zealand.
 ​
 * May 2019 – November 2019, Postdoctoral Fellow at the University of Waikato in the machine learning group, Hamilton, New Zealand.
 ​
-* September 2017 – March 2019 (1 year 6 months), Visiting Researcher at INESC TEC, Porto, Portugal.
+<!-- * September 2017 – March 2019 (1 year 6 months), Visiting Researcher at INESC TEC, Porto, Portugal. -->
 ​
 * May 2017 – May 2019 (2 years), Postdoctoral Researcher at Télécom ParisTech, Paris, France. 
 ​

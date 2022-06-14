@@ -7,11 +7,11 @@ author_profile: true
 
 If you are looking for a pdf for one of these publications, take a look at my [research gate profile](https://www.researchgate.net/profile/Heitor_Murilo_Gomes). 
 Another option is my [google scholar profile](https://scholar.google.com/citations?user=DYVIl8oAAAAJ&hl=en). 
-On a separate note, my lattes CV (Brazilian researchers platform) is available in [here](http://lattes.cnpq.br/3390096702357536), but it is quite outdated. 
+<!-- My lattes CV (Brazilian researchers platform) is available [here](http://lattes.cnpq.br/3390096702357536), but it is quite outdated.  -->
 ​
 
 
-_Last update on April 2022._
+_Last update on June 2022._
 {: .notice}
 
 ## 2022
@@ -20,6 +20,10 @@ _Last update on April 2022._
 H M Gomes, M Grzenda, R Mello, J Read, M Huong Le Nguyen, A Bifet. 
 ACM Computing Surveys, 2022. 
 
+* **LP-ROBIN: Link Prediction in Dynamic Networks exploiting Incremental Node Embedding.** 
+E P Barracchia, G Pio, A Bifet, H M Gomes, B Pfahringer, M Ceci. 
+Information Sciences, 2022. 
+
 * **Resource-aware edge-based stream analytics.** 
 I Petri, I Chirila, H M Gomes, A Bifet, O Rana. 
 IEEE Internet Computing, 2022. 
@@ -27,6 +31,15 @@ IEEE Internet Computing, 2022.
 * **An Eager Splitting Strategy for Online Decision Trees.** 
 C Manapragada, H M Gomes, M Salehi, A Bifet, G Webb. 
 Data Mining and Knowledge Discovery, Springer, 2022. 
+
+* **Balancing the Stability Plasticity Dilemma with Online Stability Tuning for Continual Learning.**
+A Lee, Y Zhang, H M Gomes. 
+International Joint Conference on Neural Networks (IJCNN), 2022. 
+
+* **Online Hyperparameter Optimization for Streaming Neural Networks.** 
+N Gunasekara, H M Gomes, B Pfahringer, A Bifet. 
+International Joint Conference on Neural Networks (IJCNN), 2022. 
+
 
 ## 2021
 
@@ -45,6 +58,10 @@ Information Sciences, 2021.
 * **Combining Static and Dynamic Analysis to Improve Machine Learning-based Malware Classification.**
 R Chanajitt, B Pfahringer, H M Gomes. 
 IEEE Data Science and Advanced Analytics (DSAA), 2021.
+
+* **Fast and lightweight binary and multi-branch Hoeffding Tree Regressors.** 
+SM Mastelini, J Montiel, H M Gomes, A Bifet, B Pfahringer, AC de Carvalho.  
+IEEE ICDM Workshops (ICDMW), 2021. 
 
 * **Data Stream Analysis: Foundations, Major Tasks and Tools.** 
 M Bahri, A Bifet, J Gama, H M Gomes, S Maniu. 
