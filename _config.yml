@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Heitor Murilo Gomes"
   avatar           : "heitor_headphoto.jpeg"
-  bio              : "I am currently a senior research fellow at the University of Waikato in the machine learning group. My main research area is Machine Learning, specially Evolving Data Streams, Concept Drift, Ensemble methods and Big Data Streams. 
-I contribute to MOA (Java), StreamDM (Spark Streaming) and scikit-multiflow (Python) open data stream mining projects."
+  bio              : "Machine Learning Researcher, Data Scientist and Lecturer."
   location         : "New Zealand"
-  employer         : "University of Waikato"
+  employer         : "Victoria University of Wellington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DYVIl8oAAAAJ"
   email            :
