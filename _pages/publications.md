@@ -48,6 +48,10 @@ IEEE Internet Computing, 2022.
 N Gunasekara, H M Gomes, A Bifet, B Pfahringer. 
 Discovery Sciences, 2022.
 
+* **Should a Social Enterprise Publicly "Toot its Virtuous Horn"? An Artificial Intelligence Approach.**
+E Mann, AJ Williamson, H M Gomes, S Dillon, A Bifet.
+Academy of Management Proceedings, 2022.
+
 * **Adaptive Online Domain Incremental Continual Learning.**
 N Gunasekara, H M Gomes, A Bifet, B Pfahringer.
 International Conference on Artificial Neural Networks (ICANN), 2022.
