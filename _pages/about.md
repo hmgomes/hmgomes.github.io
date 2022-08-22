@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a Machine Learning Researcher and Data Scientist. 
-As of 2022, I became a Lecturer in AI at the Victoria University of Wellington (New Zealand). 
+As of 2022, I became a Lecturer (Assistant Professor) in AI at the Victoria University of Wellington (New Zealand). 
 <!-- Previously, I am an associate researcher at the [AI Institute](https://ai.waikato.ac.nz) at the University of Waikato.  -->
 
 Selected Publications
