@@ -45,8 +45,16 @@ This paper presents an efficent version of the classical Random Forests algorith
 News 2022!
 ======
 
+* (August 2022)
+    * Paper accepted for publication at Discovery Sciences (DS) 2022
+    * Paper accepted for publication at the Expert Systems with Applications journal
+
+* (July 2022)
+    * Paper accepted for publication at ICANN 2022
+
 * (June 2022)
     * PC Chair - Research of the [20th Australasian Data Mining Conference (AusDM22)](https://ausdm2022.blogs.auckland.ac.nz)
+    * Paper accepted for publication at the Springer Machine Learning journal
 
 * (May 2022)
     * Joined the Victoria University of Wellington as a Lecturer in AI

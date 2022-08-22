@@ -11,7 +11,7 @@ Another option is my [google scholar profile](https://scholar.google.com/citatio
 ​
 
 
-_Last update on June 2022._
+_Last update on August 2022._
 {: .notice}
 
 ## 2022
@@ -19,6 +19,22 @@ _Last update on June 2022._
 * **A Survey on Semi-Supervised Learning for Delayed Partially Labelled Data Streams.**
 H M Gomes, M Grzenda, R Mello, J Read, M Huong Le Nguyen, A Bifet. 
 ACM Computing Surveys, 2022. 
+
+* **SOKNL: A novel way of integrating K-nearest neighbours with adaptive random forest regression for data streams.**
+Y Sun, A Pfahringer, H M Gomes, A Bifet. 
+Data Mining and Knowledge Discovery, 2022.
+
+* **STUDD: a student–teacher method for unsupervised concept drift detection.**
+V Cerqueira, H M Gomes, A Bifet, L Torgo. 
+Machine Learning, Springer, 2022.
+
+* **An Eager Splitting Strategy for Online Decision Trees.** 
+C Manapragada, H M Gomes, M Salehi, A Bifet, G Webb. 
+Data Mining and Knowledge Discovery, Springer, 2022. 
+
+* **Fast & Furious: Modelling Malware Detection as Evolving Data Streams.**
+F Ceschin, M Botacin, H M Gomes, F Pinagé, L S Oliveira, A Grégio.
+Expert Systems with Applications, 2022
 
 * **LP-ROBIN: Link Prediction in Dynamic Networks exploiting Incremental Node Embedding.** 
 E P Barracchia, G Pio, A Bifet, H M Gomes, B Pfahringer, M Ceci. 
@@ -28,9 +44,13 @@ Information Sciences, 2022.
 I Petri, I Chirila, H M Gomes, A Bifet, O Rana. 
 IEEE Internet Computing, 2022. 
 
-* **An Eager Splitting Strategy for Online Decision Trees.** 
-C Manapragada, H M Gomes, M Salehi, A Bifet, G Webb. 
-Data Mining and Knowledge Discovery, Springer, 2022. 
+* **Adaptive Neural Networks for Online Domain Incremental Continual Learning.**
+N Gunasekara, H M Gomes, A Bifet, B Pfahringer. 
+Discovery Sciences, 2022.
+
+* **Adaptive Online Domain Incremental Continual Learning.**
+N Gunasekara, H M Gomes, A Bifet, B Pfahringer.
+International Conference on Artificial Neural Networks (ICANN), 2022.
 
 * **Balancing the Stability Plasticity Dilemma with Online Stability Tuning for Continual Learning.**
 A Lee, Y Zhang, H M Gomes. 
