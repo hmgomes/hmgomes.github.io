@@ -15,16 +15,15 @@ Education
 * M.Sc. degree in Computer Science, Graduate Program in Informatics (PPGIa), Pontifícia Universidade Católica do Paraná, Brazil, 2011-2012.
 * B.Sc. degree in Computer Science, UTP, Brazil, 2007-2010. 
 
-Work experience
+<!-- Work experience
 ======
 
-* May 2022 – Current, Lecturer (Assistant Professor) in Artificial Intelligence at Victoria University of Wellington, Wellington, New Zealand.
+* 2022 – Current, Lecturer (Assistant Professor) in Artificial Intelligence at Victoria University of Wellington, Wellington, New Zealand.
 ​
-* November 2019 – May 2022, Senior Research Fellow and Co-Director of the AI Institute at the University of Waikato, Hamilton, New Zealand.
+* November 2019 – May 2022, Senior Research Fellow, Hamilton, New Zealand.
 ​
-* May 2019 – November 2019, Postdoctoral Fellow at the University of Waikato in the machine learning group, Hamilton, New Zealand.
+* May 2019 – November 2019, Postdoctoral Fellow at the University of Waikato, Hamilton, New Zealand.
 ​
-<!-- * September 2017 – March 2019 (1 year 6 months), Visiting Researcher at INESC TEC, Porto, Portugal. -->
 ​
 * May 2017 – May 2019 (2 years), Postdoctoral Researcher at Télécom ParisTech, Paris, France. 
 ​
@@ -41,7 +40,7 @@ Work experience
 * January 2009 – December 2010 (2 years) Trainee at ExxonMobil, Curitiba, Brazil
 ​
 * June 2008 – January 2009 (8 months) Developer & System analyst at AM&RM, Curitiba, Brazil
-
+-->
 
 Service
 ======
