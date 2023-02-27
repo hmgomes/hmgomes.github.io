@@ -41,7 +41,7 @@ This paper contains the most up to date and comprehensive survey about ensemble 
 H M Gomes, A Bifet, J Read, ..., B Pfahringer, G Holmes, T Abdessalem. ACM Machine Learning, Springer, 2017. DOI: [https://doi.org/10.1007/s10994-017-5642-8](https://doi.org/10.1007/s10994-017-5642-8)
  
 This paper presents an efficent version of the classical Random Forests algorithm for evolving data streams, namely the Adaptive Random Forest (ARF) algorithm. [Access Paper](https://www.researchgate.net/publication/317579226_Adaptive_random_forests_for_evolving_data_stream_classification)
-
+<!-- 
 News 2022!
 ======
 
@@ -65,7 +65,7 @@ News 2022!
     * Paper accepted for publication at the DAMI journal (ECML track)
     * Collaboration with Influx energy on streaming analytics
 
-<!-- * (March 2022) Paper accepted for publication at the DAMI journal -->
+* (March 2022) Paper accepted for publication at the DAMI journal 
 
 * (February 2022) Papers, Collaborations
     * Paper accepted for publication at the ACM Computing Surveys journal
@@ -73,7 +73,7 @@ News 2022!
     * Collaboration with Cardiff University in a resource-aware machine learning project
     * MOU signed between University of Waikato and Universidade Federal do Parana
 
-* (January 2022) Paper accepted for publication at the DAMI journal
+* (January 2022) Paper accepted for publication at the DAMI journal -->
 
 <!-- * (December 2021) Papers
     * 
