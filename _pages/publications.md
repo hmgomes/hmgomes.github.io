@@ -11,8 +11,39 @@ Another option is my [google scholar profile](https://scholar.google.com/citatio
 ​
 
 
-_Last update on August 2022._
+_Last update on August 2023._
 {: .notice}
+
+## 2023
+
+* **Survey on Online Streaming Continual Learning.**
+N Gunasekara, B Pfahringer, HM Gomes, A Bifet. 
+International Joint Conference on Artificial Intelligence (IJCAI), 2023.
+
+* **Look At Me, No Replay! SurpriseNet: Anomaly Detection Inspired Class Incremental Learning.**
+A Lee, Y Zhang, H M Gomes, A Bifet, B Pfahringer. 
+ACM International Conference on Information and Knowledge Management (CIKM), 2023.
+
+* **Machine Learning (In) Security: A Stream of Problems.**
+F Ceschin, H M Gomes, M Botacin, A Bifet, B Pfahringer, L S Oliveira, A Grégio
+ACM Digital Threats: Research and Practice (DTRAP), 2023.
+
+* **A decade of biodiversity conservation: insights into corporate social responsibility in an emerging market context**
+E C Mann, H M Gomes, A J Williamson, M C Branco
+International Journal of Emerging Markets, 2023.
+
+* **SeGDroid: An Android malware detection method based on sensitive
+function call graph learning.**
+Z Liu, R Wang, N Japkowicz, H M Gomes, B Peng, W Zhang
+Expert Systems with Applications, 2023.
+
+* **Combined Effect of Concept Drift and Class Imbalance on Model Performance During Stream Classification.**
+A S Palli, J Jaafar, M A Hashmani, H M Gomes, A Alsughayyir, A R Gilal
+Computers Materials & Continua (CMC), 2023. 
+
+* **Fast & Furious: Modelling Malware Detection as Evolving Data Streams.**
+F Ceschin, M Botacin, H M Gomes, F Pinagé, L S Oliveira, A Grégio.
+Expert Systems with Applications, 2023.
 
 ## 2022
 
@@ -31,10 +62,6 @@ Machine Learning, Springer, 2022.
 * **An Eager Splitting Strategy for Online Decision Trees.** 
 C Manapragada, H M Gomes, M Salehi, A Bifet, G Webb. 
 Data Mining and Knowledge Discovery, Springer, 2022. 
-
-* **Fast & Furious: Modelling Malware Detection as Evolving Data Streams.**
-F Ceschin, M Botacin, H M Gomes, F Pinagé, L S Oliveira, A Grégio.
-Expert Systems with Applications, 2022
 
 * **LP-ROBIN: Link Prediction in Dynamic Networks exploiting Incremental Node Embedding.** 
 E P Barracchia, G Pio, A Bifet, H M Gomes, B Pfahringer, M Ceci. 
