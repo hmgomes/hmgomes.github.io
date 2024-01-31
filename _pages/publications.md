@@ -7,7 +7,7 @@ author_profile: true
 
 If you are looking for a pdf for one of these publications, take a look at my [research gate profile](https://www.researchgate.net/profile/Heitor_Murilo_Gomes). 
 Another option is my [google scholar profile](https://scholar.google.com/citations?user=DYVIl8oAAAAJ&hl=en). 
-<!-- My lattes CV (Brazilian researchers platform) is available [here](http://lattes.cnpq.br/3390096702357536), but it is quite outdated.  -->
+<!-- My lattes CV (Brazilian researchers platform) is available [here](https://lattes.cnpq.br/3390096702357536), but it is quite outdated.  -->
 ​
 
 

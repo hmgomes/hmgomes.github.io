@@ -110,7 +110,7 @@ Education
 
 Publications
 ======
-  See my [publications page](http://heitorgomes.com/publications/). 
+  See my [publications page](https://heitorgomes.com/publications/). 
   
 Talks
 ======
