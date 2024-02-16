@@ -9,5 +9,5 @@ location: "Hobbiton, New Zealand"
 ---
 
 Presentation at the first Artificial Intelligence Researchers Association of New Zealand meetup. 
-Link to conference: https://www.ainz.ai/2021-speakers/
-Link to my presentation: https://www.youtube.com/watch?v=Xrt54Gi9TdY
+[Conference website](https://www.ainz.ai/2021-speakers/)
+[My presentation video](https://www.youtube.com/watch?v=Xrt54Gi9TdY)

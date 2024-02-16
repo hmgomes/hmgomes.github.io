@@ -9,5 +9,5 @@ location: "University of Canterbury, New Zealand"
 ---
 
 Presentation at the Artificial Intelligence Researchers Association of New Zealand meetup. 
-Link to conference: https://www.ainz.ai/2022-speakers/
-Link to my presentation: https://www.youtube.com/watch?v=UgnDm9ib3Yc
+[Conference website](https://www.ainz.ai/2022-speakers/)
+[My presentation video](https://www.youtube.com/watch?v=UgnDm9ib3Yc)
