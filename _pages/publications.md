@@ -11,8 +11,19 @@ Another option is my [google scholar profile](https://scholar.google.com/citatio
 ​
 
 
-_Last update on August 2023._
+_Last update on February 2024._
 {: .notice}
+
+## 2024
+
+* **SeGDroid: An Android malware detection method based on sensitive function call graph learning.**
+Z Liu, R Wang, N Japkowicz, H M Gomes, B Peng, W Zhang
+Expert Systems with Applications, 2024.
+
+* **Online Machine Learning from Non-stationary Data Streams in the Presence of Concept Drift and Class Imbalance: A Systematic Review.**
+A S Palli, J Jaafar, A R Gilal, A Alsughayyir, H M Gomes, A Alshanqiti, M Omar
+Journal of Information and Communication Technology, 2024. 
+
 
 ## 2023
 
@@ -31,11 +42,6 @@ ACM Digital Threats: Research and Practice (DTRAP), 2023.
 * **A decade of biodiversity conservation: insights into corporate social responsibility in an emerging market context**
 E C Mann, H M Gomes, A J Williamson, M C Branco
 International Journal of Emerging Markets, 2023.
-
-* **SeGDroid: An Android malware detection method based on sensitive
-function call graph learning.**
-Z Liu, R Wang, N Japkowicz, H M Gomes, B Peng, W Zhang
-Expert Systems with Applications, 2023.
 
 * **Combined Effect of Concept Drift and Class Imbalance on Model Performance During Stream Classification.**
 A S Palli, J Jaafar, M A Hashmani, H M Gomes, A Alsughayyir, A R Gilal
@@ -66,6 +72,14 @@ Data Mining and Knowledge Discovery, Springer, 2022.
 * **LP-ROBIN: Link Prediction in Dynamic Networks exploiting Incremental Node Embedding.** 
 E P Barracchia, G Pio, A Bifet, H M Gomes, B Pfahringer, M Ceci. 
 Information Sciences, 2022. 
+
+* **Multiclass Malware Classification using either Static Opcodes or Dynamic API Calls.**
+R Chanajitt, B Pfahringer, H M Gomes, V Yogarajan. 
+Australasian Joint Conference on Artificial Intelligence, 2022. 
+
+* **An Experimental Analysis of Drift Detection Methods on Multi-Class Imbalanced Data Streams.**
+A S Palli, J Jaafar, H M Gomes, M A Hashmani, A R Gilal. 
+Applied Sciences, 2022.
 
 * **Resource-aware edge-based stream analytics.** 
 I Petri, I Chirila, H M Gomes, A Bifet, O Rana. 
