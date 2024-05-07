@@ -13,9 +13,16 @@ I am a Machine Learning Researcher and Data Scientist.
 As of 2022, I became a Lecturer (Assistant Professor) in AI at the Victoria University of Wellington (New Zealand). 
 <!-- Previously, I am an associate researcher at the [AI Institute](https://ai.waikato.ac.nz) at the University of Waikato.  -->
 
-CapyMOA: https://capymoa.org/
-CapyMOA Github: https://github.com/adaptive-machine-learning/CapyMOA
-For the PAKDD 2024 tutorial material see https://heitorgomes.com/talks/2024-PAKDD-Tutorial-Taiwan
+CapyMOA
+=====
+
+A novel machine learning library for data streams! See more information about it below, we have also presented a tutorial on 
+
+[https://capymoa.org/](https://capymoa.org/)
+
+CapyMOA Github: [https://github.com/adaptive-machine-learning/CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA)
+
+For the PAKDD 2024 tutorial material see [https://heitorgomes.com/talks/2024-PAKDD-Tutorial-Taiwan](https://heitorgomes.com/talks/2024-PAKDD-Tutorial-Taiwan)
 
 Selected Publications
 ======
