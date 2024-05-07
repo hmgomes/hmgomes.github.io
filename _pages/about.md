@@ -10,19 +10,21 @@ redirect_from:
 
 
 I am a Machine Learning Researcher and Data Scientist. 
-As of 2022, I became a Lecturer (Assistant Professor) in AI at the Victoria University of Wellington (New Zealand). 
+As of 2022, I became a Lecturer (Assistant Professor) in AI at the Victoria University of Wellington (VuW), New Zealand. 
+Before joining VuW, I worked at the University of Waikato as a senior researcher and co-director of the AI Institute. 
+My main research area is on adaptive machine learning, which includes machine learning for data streams and, more recently, online continual learning. 
+For collaborations and inquires about PhD positions reach out through my institutional email. 
 <!-- Previously, I am an associate researcher at the [AI Institute](https://ai.waikato.ac.nz) at the University of Waikato.  -->
 
-CapyMOA
+(NEW) CapyMOA
 =====
 
-A novel machine learning library for data streams! See more information about it below. We recently presented a tutorial on PAKDD 2024 (Taipei) about it, and there will be more scheduled for 2024 (IJCAI, KDD, ECML, and more). 
+As of May 02, 2024 we launched a novel machine learning library for data streams! See more information about it below. 
+We recently presented a tutorial on PAKDD 2024 (Taipei) about it, and there many more scheduled for 2024 (IJCAI, KDD, ECML, and more). 
 
-Website: [https://capymoa.org/](https://capymoa.org/)
-
-CapyMOA Github: [https://github.com/adaptive-machine-learning/CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA)
-
-PAKDD 2024 tutorial material available [here](https://heitorgomes.com/talks/2024-PAKDD-Tutorial-Taiwan)
+* Website: [https://capymoa.org/](https://capymoa.org/)
+* CapyMOA Github: [https://github.com/adaptive-machine-learning/CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA)
+* PAKDD 2024 tutorial material available [here](https://heitorgomes.com/talks/2024-PAKDD-Tutorial-Taiwan)
 
 Selected Publications
 ======
