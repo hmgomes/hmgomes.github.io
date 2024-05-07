@@ -16,13 +16,13 @@ As of 2022, I became a Lecturer (Assistant Professor) in AI at the Victoria Univ
 CapyMOA
 =====
 
-A novel machine learning library for data streams! See more information about it below, we have also presented a tutorial on 
+A novel machine learning library for data streams! See more information about it below. We recently presented a tutorial on PAKDD 2024 (Taipei) about it, and there will be more scheduled for 2024 (IJCAI, KDD, ECML, and more). 
 
-[https://capymoa.org/](https://capymoa.org/)
+Website: [https://capymoa.org/](https://capymoa.org/)
 
 CapyMOA Github: [https://github.com/adaptive-machine-learning/CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA)
 
-For the PAKDD 2024 tutorial material see [https://heitorgomes.com/talks/2024-PAKDD-Tutorial-Taiwan](https://heitorgomes.com/talks/2024-PAKDD-Tutorial-Taiwan)
+PAKDD 2024 tutorial material available [here](https://heitorgomes.com/talks/2024-PAKDD-Tutorial-Taiwan)
 
 Selected Publications
 ======
