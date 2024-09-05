@@ -16,12 +16,40 @@ _Last update on February 2024._
 
 ## 2024
 
+* **Leveraging Plasticity in Incremental Decision Trees.**
+M Heyden, HM Gomes, E Fouché, B Pfahringer, K Bohm.
+European Conference on Machine Learning (ECML PKDD), 2024
+
+* **Gradient boosted trees for evolving data streams.** 
+N Gunasekara, B Pfahringer, H M Gomes, A Bifet.
+Machine Learning, Springer, 2024. 
+
+* **Recurrent Concept Drifts on Data Streams.** 
+N Gunasekara, B Pfahringer, HM Gomes, A Bifet, Y S Koh. 
+International Joint Conferences on Artificial Intelligence (IJCAI), 2024
+
+* **Time-Evolving Data Science and Artificial Intelligence for Advanced Open Environmental Science (TAIAO) Programme.** 
+Y S Koh, A Bifet, K Bryan, G Cassales, O Graffeuille, N Lim, P Mourot, D Ning, B Pfahringer, V Vetrova , H M Gomes. 
+International Joint Conferences on Artificial Intelligence (IJCAI), 2024
+
+* **Real-Time Energy Pricing in New Zealand: An Evolving Stream Analysis**
+Y Sun, H M Gomes, B Pfahringer, A Bifet. 
+Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2024
+
+* **Adaptive Prediction Interval for Data Stream Regression.** 
+Y Sun, B Pfahringer, A Bifet, H M Gomes. 
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024
+
+* **Machine Learning (In) Security: A Stream of Problems.**
+F Ceschin, H M Gomes, M Botacin, A Bifet, B Pfahringer, L S Oliveira, A Grégio
+ACM Digital Threats: Research and Practice (DTRAP), 2024.
+
 * **SeGDroid: An Android malware detection method based on sensitive function call graph learning.**
-Z Liu, R Wang, N Japkowicz, H M Gomes, B Peng, W Zhang
+Z Liu, R Wang, N Japkowicz, H M Gomes, B Peng, W Zhang.
 Expert Systems with Applications, 2024.
 
 * **Online Machine Learning from Non-stationary Data Streams in the Presence of Concept Drift and Class Imbalance: A Systematic Review.**
-A S Palli, J Jaafar, A R Gilal, A Alsughayyir, H M Gomes, A Alshanqiti, M Omar
+A S Palli, J Jaafar, A R Gilal, A Alsughayyir, H M Gomes, A Alshanqiti, M Omar.
 Journal of Information and Communication Technology, 2024. 
 
 
@@ -34,10 +62,6 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2023.
 * **Look At Me, No Replay! SurpriseNet: Anomaly Detection Inspired Class Incremental Learning.**
 A Lee, Y Zhang, H M Gomes, A Bifet, B Pfahringer. 
 ACM International Conference on Information and Knowledge Management (CIKM), 2023.
-
-* **Machine Learning (In) Security: A Stream of Problems.**
-F Ceschin, H M Gomes, M Botacin, A Bifet, B Pfahringer, L S Oliveira, A Grégio
-ACM Digital Threats: Research and Practice (DTRAP), 2023.
 
 * **A decade of biodiversity conservation: insights into corporate social responsibility in an emerging market context**
 E C Mann, H M Gomes, A J Williamson, M C Branco
