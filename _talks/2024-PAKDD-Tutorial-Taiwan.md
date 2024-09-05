@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning for Streaming Data"
+title: "PAKDD'24 tutorial: Machine Learning for Streaming Data"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2024-PAKDD-Tutorial-Taiwan

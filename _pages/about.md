@@ -24,7 +24,7 @@ We recently presented a tutorial on PAKDD 2024 (Taipei) about it, and there many
 
 * Website: [https://capymoa.org/](https://capymoa.org/)
 * CapyMOA Github: [https://github.com/adaptive-machine-learning/CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA)
-* We had plenty of tutorials this year: PAKDD, IJCAI, KDD, ECML and KiwiPycon. Material is available on the CapyMOA discord [here](https://discord.gg/spd2gQJGAb)
+* We had plenty of tutorials in 2024, including: PAKDD (Taipei, Taiwan), IJCAI (Jeju, South Korea), KDD (Barcelona, Spain), ECML (Vilnius, Lithuania), KiwiPycon (Wellington, NZ) and ICONIP (Auckland, NZ). Material is available on the CapyMOA discord [here](https://discord.gg/spd2gQJGAb)
 
 Selected Publications
 ======
