@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-I am a Machine Learning Researcher and Data Scientist. 
-As of 2022, I became a Senior Lecturer (Assistant Professor) in AI at the Victoria University of Wellington (VuW), New Zealand. 
+I am a Machine Learning Researcher and Data Scientist. Currently, I am a Senior Lecturer (Assistant Professor) in AI at the Victoria University of Wellington (VuW), New Zealand. 
 Before joining VuW, I worked at the University of Waikato as a Senior Researcher and Co-Director of the AI Institute. 
 My main research area is on Adaptive Machine Learning, which includes machine learning for data streams and, more recently, online continual learning. 
 For collaborations and inquires about PhD positions reach out through my institutional email. 
