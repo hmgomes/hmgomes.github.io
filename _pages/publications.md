@@ -10,9 +10,52 @@ Another option is my [google scholar profile](https://scholar.google.com/citatio
 <!-- My lattes CV (Brazilian researchers platform) is available [here](https://lattes.cnpq.br/3390096702357536), but it is quite outdated.  -->
 ​
 
-
-_Last update on February 2024._
+_Last update on November 2025._
+<!-- _Last update on February 2024._ -->
 {: .notice}
+
+## 2025
+
+* **Kolmogorov-Arnold Networks Still Catastrophically Forget but Differently from MLP**. 
+A Lee, H M Gomes, Y Zhang, W B Kleijn. 
+AAAI Conference on Artificial Intelligence, 2025
+
+* **Gradient Boosted Bagging for Evolving Data Stream Regression**. 
+N Gunasekara, B Pfahringer, H M Gomes, A Bifet. 
+Data Mining and Knowledge Discovery, 2025. 
+
+* **Dynamic Ensemble Member Selection for Data Stream Classification.** 
+Y Sun, B Pfahringer, H M Gomes, A Bifet. 
+ACM Internation Conference on Information and Knowledge Management (CIKM), 2025.
+
+* **RMIDDM: An unsupervised and interpretable concept drift detection method for data streams.**
+R Neto, B Alencar, H M Gomes, A Bifet, J Gama, G Cassales, R Rios. 
+Data Mining and Knowledge Discovery, 2025.
+
+* **A Semi-Supervised Active Learning Neural Network for Data Streams With Concept Drift.** 
+B Jiao, H M Gomes, B Xue, Y Guo, M Zhang. 
+IEEE Computational Intelligence Magazine, 2025.
+
+* **Linear Adaptive Filtering for Regression in Data Streams.** 
+J Igual, H M Gomes, B Pfahringer, A Bifet. 
+International Journal of Data Science and Analytics, 2025.
+
+* **Machine Learning on the Fly: A Hands-On Tutorial for Streaming Data.** 
+H M Gomes, N Gunasekara, Y Sun. 
+IEEE International Conference on Data Engineering (IEEE ICDE), 2025
+
+* **Towards more realistic evaluations: The impact of label delays in malware detection pipelines.**
+M Botacin, H M Gomes. 
+Computers & Security, 2025
+
+* **Detecting Domain Shifts in Myoelectric Activations: Challenges and Opportunities in Stream Learning.**
+Y Sun, N Lim, G W Cassales, H M Gomes, B Pfahringer, A Bifet, A Dwivedi. 
+Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2025 
+
+* **Edge Machine Learning for Solar Power Forecasting.**
+G W Cassales, I Petri, H M Gomes, O F Rana, A Bifet. 
+International Conference on Future Internet of Things and Cloud (FiCloud), 2025. 
+
 
 ## 2024
 
@@ -39,6 +82,10 @@ Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2024
 * **Adaptive Prediction Interval for Data Stream Regression.** 
 Y Sun, B Pfahringer, A Bifet, H M Gomes. 
 Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024
+
+* **Practical machine learning for streaming data.** 
+H M Gomes, A Bifet. 
+Knowledge Discovery and Data Mining (ACM SIGKDD), 2024
 
 * **Machine Learning (In) Security: A Stream of Problems.**
 F Ceschin, H M Gomes, M Botacin, A Bifet, B Pfahringer, L S Oliveira, A Grégio

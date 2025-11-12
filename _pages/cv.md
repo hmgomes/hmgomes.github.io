@@ -40,60 +40,45 @@ redirect_from:
 Service
 ======
 
-### Reviewer and/or PC member: Journals
-Neurocomputing (Elsevier) - 2016, 2017; 
-Transactions on Big Data (IEEE) - 2017; 
-International Journal of Data Science and Analytics (Springer) - 2017; 
-Information Systems - 2017; 
-Data Mining and Knowledge Discovery - 2018, 2019, 2020, 2021; 
-TKDE - 2018, 2019, 2020; 
-IEEE Access - 2019; 
-Journal of Machine Learning (JMLR) - 2019, 2020; 
-Knowledge and Information Systems (KAIS) - 2019; 
-Information Fusion 2023;
-Machine Learning (Springer) 2020-2023;
+
+### Reviewer and/or PC member
+Since 2017 I contribute or have contributed as PC member/Senior PC member for the following conferences and journals: 
+* ACM SIGKDD, AAAI, IJCAI, ECML-PKDD, IEEE ICDM, ESANN, ECAI, ACM SAC (data streams track), ...
+* Machine Learning (Springer), Data Mining and Knowledge Discovery (DAMI), IEEE TKDE, Journal of Machine Learning (JMLR), Knowledge and Information Systems (KAIS), Information Fusion, IEEE Transactions on Big Data, ...
 
 
-### Reviewer and/or PC member: Conferences
-SIGKDD - 2019, 2020, 2021, 2022; 
-IJCAI - 2018-2023; 
-AAAI - 2019-2023; 
-ECML - 2019, 2020, 2022, 2023; 
-PAKDD - 2018, 2019, 2020, 2021; 
-ICDM - 2017; 
-IEEE International Conference on Big Data - 2017; 
-ICONIP 2019; 
-ECAI 2020;
-ESANN 2019; 
-ACM SAC (Data Streams Track) -2017, 2018, 2019, 2020, 2021; 
-
-
-### Others
+<!-- ### Others
 Ad-hoc Reviewer for Chile Research Commission CONICYT - 2017;
-Udacity Machine Learning Engineer Nanodegree - 2016-2021;
+Udacity Machine Learning Engineer Nanodegree - 2016-2021; -->
 
 ### PhD Examiner
-2023 Examiner for Katharina Dost, University of Auckland. Thesis title: Selection Bias Identification and Mitigation With No Ground Truth Information. 
-2022 Examiner for Ocean Wu, University of Auckland. Thesis title: Learning and Adapting Continuously for Data Streams
+* 2025 Examiner for Marco Heyden, Karlsruher Institut für Tehchnologie (KIT). Thesis title: Efficient Decision-Making in Data Streams under Limited Feedback. 
+* 2025 Examiner for Jingrui Zhang, University of Auckland. Thesis title: Explainable Anomaly Detection with Few Labeled Data. 
+* 2024 Examiner for Christian Raymond, Victoria University of Wellington. Thesis title: Meta-Learning Loss Functions for Deep Neural Networks. 
+* 2023 Examiner for Katharina Dost, University of Auckland. Thesis title: Selection Bias Identification and Mitigation With No Ground Truth Information. 
+* 2022 Examiner for Ocean Wu, University of Auckland. Thesis title: Learning and Adapting Continuously for Data Streams
 
 ### Chair, Co-chair or Organizer
 
-* Editorial board. Machine Learning journal - Springer, 2022-2023. 
-
+* Chair. AAAI Bridge program. Streaming Continual Learning, 2026
+* Editor. International Journal of Data Science and Analytics, 2024-current.
+* Editorial board. Machine Learning journal - Springer, 2022-ongoing. 
+* Publicity chair. PRICAI 2025, Wellington, New Zealand. 
+* Nectar track chair. ECML PKDD 2024. Vilnius, Lithuania. 
 * AusDM’22 Research PC Chair, Sidney, Australia, 2022. 
-
 * IEEE International Conference on Data Mining (ICDM) 2021. Online Experience/Virtual Chair. Auckland, New Zealand. [Website](https://icdm2021.auckland.ac.nz/organisation/)
-
-* ACM Symposium on Applied Computing Data Streams Track. In conjunction with ACM Symposium on Applied Computing: The 36th Annual ACM Symposium on Applied Computing 2021. Gwangju, Korea. [Website](https://www.cs.waikato.ac.nz/~abifet/SAC2021/).
-
+* Track co-chair. ACM Symposium on Applied Computing Data Streams Track. In conjunction with ACM Symposium on Applied Computing. 2021, 2022, 2023, 2024, 2025, 2026. 
 * Second International Workshop on Energy Efficient Scalable Data Mining and Machine Learning. Co-located with ECML PKDD 2019. Würzburg, Germany. [Website](https://greendatamining.github.io/greendatamining19/). 
 
 Funding
 ======
-* 2023-2026, “Exploring Disagreement-Based Learning for partially labelled data stream classification”, 22-UOW-066, Marsden Fund (Fast-Start), $360,000 NZD (Sole PI)
-* 2023-2024, "Tackling energy demand forecast drifts", VUW University Faculty Research Establishment Grant Application, $27,640 NZD (Sole PI)
-* 2023-2024, “Time Series Analysis with Ordinal Patterns: Transformative Theoretical Advances and New Applications”, VUW Faculty Strategic Research Grant, $47,613 NZD. (Co-PI)
-* 2022-2027, Time-Evolving Data Science/Artificial Intelligence for Advanced Open Environmental Science (TAIAO), MBIE SSIF Fund on Data Science. $13,000,000 NZD. (Key Researcher)
+* 2025-2029, Tūwhana SCC-Fort, MBIE Research Programme, $7,500,000 NZD (Work stream leader)
+* 2025-2027, Transformers Applied to Multimodal Detection of Malicious Code with Few Examples, CNPq/MCTI/FNDCT Nº 22/2024, $118,000 NZD (Key researcher)
+* 2025-2027, Advanced Mitigation of DDoS Attacks: Integration of Machine Learning for Data Streams and Programmable Network Devices, CNPq/MCTI/FNDCT Nº 22/2024, $135,000 NZD (Key researcher)
+* 2022-2027, Time-Evolving Data Science/Artificial Intelligence for Advanced Open Environmental Science (TAIAO), MBIE SSIF Fund on Data Science. $13,000,000 NZD. (Work stream leader)
+* 2023-2026, Exploring Disagreement-Based Learning for partially labelled data stream classification, 22-UOW-066, Marsden Fund (Fast-Start), $360,000 NZD (Sole PI)
+* 2023-2024, Tackling energy demand forecast drifts, VUW University Faculty Research Establishment Grant Application, $27,640 NZD (Sole PI)
+* 2023-2024, Time Series Analysis with Ordinal Patterns: Transformative Theoretical Advances and New Applications, VUW Faculty Strategic Research Grant, $47,613 NZD. (Co-PI)
 * 2020-2021, University of Waikato Strategic research fund ($29,000 NZD) (Sole PI)
 
 Grants, Awards and Honors
