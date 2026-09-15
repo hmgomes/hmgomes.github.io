@@ -49,6 +49,7 @@ Udacity Machine Learning Engineer Nanodegree - 2016-2021; -->
 
 ### Chair, Co-chair or Organizer
 
+* General Chair. PAKDD 2027. 
 * Chair. AAAI Bridge program. Streaming Continual Learning, 2026
 * Editor. International Journal of Data Science and Analytics, 2024-current.
 * Editorial board. Machine Learning journal - Springer, 2022-ongoing. 
@@ -90,9 +91,7 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  See my [talks page](https://heitorgomes.com/talks/). 
   
 Teaching
 ======
