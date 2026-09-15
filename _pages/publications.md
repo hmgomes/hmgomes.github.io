@@ -10,11 +10,50 @@ Another option is my [google scholar profile](https://scholar.google.com/citatio
 <!-- My lattes CV (Brazilian researchers platform) is available [here](https://lattes.cnpq.br/3390096702357536), but it is quite outdated.  -->
 ​
 
-_Last update on November 2025._
-<!-- _Last update on February 2024._ -->
+_Last update on September 2026._
+<!-- _Last update on November 2025._ -->
 {: .notice}
 
+## 2026
+
+* **A Framework for Evaluating and Benchmarking Concept Drift Detection Methods.**
+V Cerqueira, H M Gomes, M Heyden, B Pfahringer, A Bifet.
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026.
+
+* **Adaptive Approaches toward Fully Incremental Prediction Interval for Data Stream Regression.**
+Y Sun, B Pfahringer, H M Gomes, A Bifet.
+Knowledge and Information Systems (KAIS), 2026.
+
+* **Online Decision Trees for Varying Feature Spaces via Gradient-Based Surrogates.**
+K Feng, H M Gomes, X Zhu, Y He.
+SIAM International Conference on Data Mining (SDM), 2026.
+
+* **Hidden-Context Drift Simulation for Realistic Stream Benchmarks.**
+Y Sun, B Pfahringer, H M Gomes, A Bifet.
+Discovery Sciences, 2026.
+
+
 ## 2025
+
+* **SLEADE: Disagreement-Based Semi-Supervised Learning for Sparsely Labeled Evolving Data Streams.**
+H M Gomes, J Read, M Grzenda, B Pfahringer, A Bifet.
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.
+
+* **Machine Learning for Data Streams with CapyMOA.**
+Y Sun, H M Gomes, A Lee, N Gunasekara, G W Cassales, J J Liu, M Heyden, V Cerqueira, M Bahri, Y S Koh, B Pfahringer, A Bifet.
+European Conference on Machine Learning (ECML PKDD), 2025.
+
+* **Smart Adaptive Ensemble Model for Multiclass Imbalanced Nonstationary Data Streams.**
+A S Palli, J Jaafar, M H Md Saad, A A Mokhtar, H M Gomes, A A Soomro, A R Gilal.
+Scientific Reports (Nature Portfolio), 2025.
+
+* **Towards Explainable Drift Detection and Early Retrain in ML-Based Malware Detection Pipelines.**
+J Tripathi, H M Gomes, M Botacin.
+International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA), 2025.
+
+* **Drift-Aware Machine Learning for Operational State Classification in Biogas Dry Reforming.**
+M A Schreiner, R A Escribano, H M Gomes, P de Almeida, L E S de Oliveira.
+IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2025.
 
 * **Kolmogorov-Arnold Networks Still Catastrophically Forget but Differently from MLP**. 
 A Lee, H M Gomes, Y Zhang, W B Kleijn. 
@@ -26,7 +65,7 @@ Data Mining and Knowledge Discovery, 2025.
 
 * **Dynamic Ensemble Member Selection for Data Stream Classification.** 
 Y Sun, B Pfahringer, H M Gomes, A Bifet. 
-ACM Internation Conference on Information and Knowledge Management (CIKM), 2025.
+ACM International Conference on Information and Knowledge Management (CIKM), 2025.
 
 * **RMIDDM: An unsupervised and interpretable concept drift detection method for data streams.**
 R Neto, B Alencar, H M Gomes, A Bifet, J Gama, G Cassales, R Rios. 
@@ -129,7 +168,7 @@ H M Gomes, M Grzenda, R Mello, J Read, M Huong Le Nguyen, A Bifet.
 ACM Computing Surveys, 2022. 
 
 * **SOKNL: A novel way of integrating K-nearest neighbours with adaptive random forest regression for data streams.**
-Y Sun, A Pfahringer, H M Gomes, A Bifet. 
+Y Sun, B Pfahringer, H M Gomes, A Bifet. 
 Data Mining and Knowledge Discovery, 2022.
 
 * **STUDD: a student–teacher method for unsupervised concept drift detection.**

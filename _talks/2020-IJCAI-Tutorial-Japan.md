@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 permalink: /talks/2020-IJCAI-Tutorial-Japan
 venue: "International Joint Conference on Artificial Intelligence"
-date: 2021-01-7
+date: 2021-01-07
 location: "Yokohama, Japan"
 ---
 

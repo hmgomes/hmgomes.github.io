@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 permalink: /talks/2021-AIRA-Hobbiton
 venue: "AIRA 2021"
-date: 2021-01-7
+date: 2021-01-07
 location: "Hobbiton, New Zealand"
 ---
 

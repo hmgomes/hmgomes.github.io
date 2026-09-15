@@ -12,7 +12,8 @@ redirect_from:
 
  Work experience
 ======
-* 2022 – Current, Senior Lecturer (Assistant Professor) in Artificial Intelligence at Victoria University of Wellington, Wellington, New Zealand
+* 2025 – Current, Chairperson, New Zealand Artificial Intelligence Olympiad Incorporated, New Zealand. [Website](https://www.nzaiolympiad.org/)
+* 2022 – Current, Senior Lecturer (Associate Professor) in Artificial Intelligence at Victoria University of Wellington, Wellington, New Zealand
 * 2019 – 2022, Senior Research Fellow, Hamilton, New Zealand
 * 2017 – 2019, Postdoctoral Researcher at Télécom ParisTech, Paris, France
 * 2016 – 2016, PhD internship at Télécom ParisTech, Paris, France.
@@ -48,12 +49,13 @@ Udacity Machine Learning Engineer Nanodegree - 2016-2021; -->
 
 ### Chair, Co-chair or Organizer
 
+* General Chair. PAKDD 2027. 
 * Chair. AAAI Bridge program. Streaming Continual Learning, 2026
 * Editor. International Journal of Data Science and Analytics, 2024-current.
 * Editorial board. Machine Learning journal - Springer, 2022-ongoing. 
 * Publicity chair. PRICAI 2025, Wellington, New Zealand. 
 * Nectar track chair. ECML PKDD 2024. Vilnius, Lithuania. 
-* AusDM’22 Research PC Chair, Sidney, Australia, 2022. 
+* AusDM’22 Research PC Chair, Sydney, Australia, 2022. 
 * IEEE International Conference on Data Mining (ICDM) 2021. Online Experience/Virtual Chair. Auckland, New Zealand. [Website](https://icdm2021.auckland.ac.nz/organisation/)
 * Track co-chair. ACM Symposium on Applied Computing Data Streams Track. In conjunction with ACM Symposium on Applied Computing. 2021, 2022, 2023, 2024, 2025, 2026. 
 * Second International Workshop on Energy Efficient Scalable Data Mining and Machine Learning. Co-located with ECML PKDD 2019. Würzburg, Germany. [Website](https://greendatamining.github.io/greendatamining19/). 
@@ -76,7 +78,7 @@ Since 2017 I contribute or have contributed as PC member/Senior PC member for th
 
 
 ### PhD Examination
-* 2025 Examiner for Marco Heyden, Karlsruher Institut für Tehchnologie (KIT). Thesis title: Efficient Decision-Making in Data Streams under Limited Feedback. 
+* 2025 Examiner for Marco Heyden, Karlsruher Institut für Technologie (KIT). Thesis title: Efficient Decision-Making in Data Streams under Limited Feedback. 
 * 2025 Examiner for Jingrui Zhang, University of Auckland. Thesis title: Explainable Anomaly Detection with Few Labeled Data. 
 * 2024 Examiner for Christian Raymond, Victoria University of Wellington. Thesis title: Meta-Learning Loss Functions for Deep Neural Networks. 
 * 2023 Examiner for Katharina Dost, University of Auckland. Thesis title: Selection Bias Identification and Mitigation With No Ground Truth Information. 
@@ -89,13 +91,18 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  See my [talks page](https://heitorgomes.com/talks/). 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+### Victoria University of Wellington
+* AIML431 Current Topics in Artificial Intelligence
+* COMP307 / AIML420 Artificial Intelligence (co-taught)
+* AIML335 Advanced Machine Learning
+* AIML320 Artificial Intelligence
+* AIML232 Techniques in Artificial Intelligence
+
+### University of Waikato
+* COMPX523 Data Stream Mining (2020 to 2022)
 

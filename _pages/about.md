@@ -9,84 +9,56 @@ redirect_from:
 ---
 
 
-I am a Machine Learning Researcher and Data Scientist. Currently, I am a Senior Lecturer (Assistant Professor) in AI at the Victoria University of Wellington (VuW), New Zealand. 
+<a href="https://www.nzaiolympiad.org/"><img src="/images/nzaio-logo.png" alt="New Zealand AI Olympiad" style="float: right; width: 110px; max-width: 30%; margin: 0.75em 0 1em 1.5em;"></a>
+
+I am a Machine Learning Researcher and Data Scientist. Currently, I am a Senior Lecturer (Associate Professor) in AI at the Victoria University of Wellington (VuW), New Zealand. 
 Before joining VuW, I worked at the University of Waikato as a Senior Researcher and Co-Director of the AI Institute. 
 My main research area is on Adaptive Machine Learning, which includes machine learning for data streams and, more recently, online continual learning. 
-For collaborations and inquires about PhD positions reach out through my institutional email. 
+I also founded and currently chair the [New Zealand Artificial Intelligence Olympiad](https://www.nzaiolympiad.org/), a non-profit organisation established in December 2025. 
+For collaborations and inquiries about PhD positions reach out through my institutional email (heitor.gomes at vuw.ac.nz). 
 <!-- Previously, I am an associate researcher at the [AI Institute](https://ai.waikato.ac.nz) at the University of Waikato.  -->
 
 CapyMOA
 =====
 
+<a href="https://capymoa.org/"><img src="/images/capymoa-logo.png" alt="CapyMOA" style="float: right; width: 130px; max-width: 32%; margin: 0.5em 0 1em 1.5em;"></a>
+
 I lead the development of [CapyMOA](https://capymoa.org/), a machine learning library tailored for data streams. CapyMOA features a Python API that leverages [MOA's](https://moa.cms.waikato.ac.nz/) efficient implementations, [PyTorch](https://pytorch.org/) for [Online Continual Learning](https://capymoa.org/api/modules/capymoa.ocl.html) and neural networks support, and scikit-learn for integration with classical incremental learning algorithms. 
 
 * Website: [https://capymoa.org/](https://capymoa.org/)
 * CapyMOA Github: [https://github.com/adaptive-machine-learning/CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA)
-* We had plenty of tutorials in 2024-2025, including: PAKDD (Taipei, Taiwan), IJCAI (Jeju, South Korea), KDD (Barcelona, Spain), ECML (Vilnius, Lithuania), KiwiPycon (Wellington, NZ) and ICONIP (Auckland, NZ), ICDE (Hong Kong, SAR China), PAKDD (Sydney, Australia), PRICAI (Wellington, NZ) and more. Material is available on the CapyMOA discord [here](https://discord.gg/spd2gQJGAb)
+* Discord: [join here](https://discord.gg/spd2gQJGAb)
 
-Selected Publications
+Adaptive AI Lab
+=====
+
+<a href="https://ecs.wgtn.ac.nz/Groups/AdaptiveAI/"><img src="/images/adaptive-ai-lab-logo.png" alt="Adaptive AI Lab" style="float: left; width: 210px; max-width: 45%; margin: 0.25em 1.5em 0.75em 0;"></a>
+
+I founded the [Adaptive AI Lab](https://ecs.wgtn.ac.nz/Groups/AdaptiveAI/) at Victoria University of Wellington. Our research covers adaptive machine learning, which includes learning from data streams and online continual learning; agents, both agentic AI for software engineering and traditional multi-agent systems; and applications of these methods, especially in cybersecurity.
+
+Research Focus
 ======
 
+### Learning from evolving data streams
 
-### Kolmogorov-Arnold Networks Still Catastrophically Forget but Differently from MLP
-A Lee, H M Gomes, Y Zhang, W B Kleijn. 
-AAAI Conference on Artificial Intelligence, 2025 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33986)
+Models that keep training on data whose distribution keeps moving, under strict time and memory budgets. Much of this work is on ensembles: [Adaptive Random Forests](https://doi.org/10.1007/s10994-017-5642-8) (Machine Learning, 2017) and [Streaming Random Patches](https://doi.org/10.1109/ICDM.2019.00034) (ICDM, 2019) remain the baselines the area builds on.
 
-We give a simple explanation as to why and how KAN catastrophically forget. Motivated by evidence suggesting KAN are superior for symbolic regression, we augment KAN in the same ways as multilayer perceptron (MLP) to perform continual learning tasks, making special accommodations to support KAN.
+In practice labels rarely arrive on time, or at all. [SLEADE](https://ieeexplore.ieee.org/document/11313633) (IEEE TKDE, 2025) learns from sparsely labelled streams through disagreement, our [survey on semi-supervised learning for delayed partially labelled data streams](https://doi.org/10.1145/3523055) (ACM Computing Surveys, 2022) maps the problem space, and [delayed labelling evaluation](https://link.springer.com/article/10.1007/s10618-019-00654-y) (DAMI, 2019) addresses how to measure any of it fairly.
 
+### Concept drift: detection, evaluation, simulation and engineering
 
-### Leveraging Plasticity in Incremental Decision Trees
-M Heyden, H M Gomes, E Fouché, B Pfahringer, K Böhm
-European Conference on Machine Learning (ECML PKDD), 2024. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_3)
+Drift research has a measurement problem: detectors are compared on benchmarks whose drifts are neither realistic nor known. Our [framework for evaluating and benchmarking concept drift detection methods](https://arxiv.org/abs/2606.07789) (ACM SIGKDD, 2026) is an attempt to fix that, alongside work on simulating drift that behaves like the real thing (Discovery Sciences, 2026) and on detectors that work without ground truth, such as [STUDD](https://link.springer.com/article/10.1007/s10994-022-06188-7) (Machine Learning, 2022) and [RMIDDM](https://doi.org/10.1007/s10618-025-01155-x) (DAMI, 2025).
 
-PLASTIC is a novel incremental decision tree that yields better predictive performance than other recent algorithms, such as the canonical Extremely Fast Decision Tree (EFDT). 
-PLASTIC restructures the otherwise pruned subtree. This is possible due to decision tree plasticity: one can alter a tree’s structure without affecting its predictions.
+The engineering side matters as much as the research: [CapyMOA](https://capymoa.org/api/modules/capymoa.drift.html) brings together the largest collection of drift detectors available behind a modern Python API, so that comparing them is a matter of a few lines of code.
 
+### Online continual learning
 
-### Gradient boosted trees for evolving data streams
-N Gunasekara, B Pfahringer, H M Gomes, A Bifet. 
-Machine Learning, Springer, 2024. [Access paper](https://link.springer.com/article/10.1007/s10994-024-06517-y)
+Neural networks that learn from a stream without replaying everything they have seen. We showed that [Kolmogorov-Arnold Networks still catastrophically forget](https://ojs.aaai.org/index.php/AAAI/article/view/33986), but differently from MLPs (AAAI, 2025), and that anomaly detection ideas can drive class-incremental learning in [SurpriseNet](https://doi.org/10.1145/3583780.3615236) (CIKM, 2023). Our [survey on online streaming continual learning](https://www.ijcai.org/proceedings/2023/0743.pdf) (IJCAI, 2023) sits at the intersection of continual and streaming learning. The methods are available in [CapyMOA's OCL module](https://capymoa.org/api/modules/capymoa.ocl.html).
 
-Streaming Gradient Boosted Trees (SGBT) is trained using weighted squared loss elicited in XGBoost. SGBT employs a tree replacement strategy that detects and recovers from drifts, thus enabling the ensemble to adapt without sacrificing the predictive performance.
+I chaired the Streaming Continual Learning bridge program at AAAI 2026 in Singapore, which brought the streaming learning and continual learning communities together around the problems they share: adapting to non-stationary data, learning under strict resource limits, and evaluating models that never stop training. The programme website is [streamingcl.capymoa.org](https://streamingcl.capymoa.org/).
 
-### Machine learning (in) security: A stream of problems
-F Ceschin, M Botacin, A Bifet, B Pfahringer, L S Oliveira, H M Gomes, A Gregio
-ACM Digital Threats: Research and Practice, 2024
-[Paper](https://dl.acm.org/doi/pdf/10.1145/3617897)
+### Machine learning for security and applied domains
 
-We identify, detail, and discuss the main challenges in the correct application of Stream ML techniques to cybersecurity data. We evaluate how concept drift, evolution, delayed labels, and adversarial ML impact the existing solutions. 
+Much of this work is driven by domains where the data never stops arriving and the conditions keep changing. In security, [machine learning (in) security: a stream of problems](https://dl.acm.org/doi/pdf/10.1145/3617897) (ACM DTRAP, 2024) argues that malware detection is a streaming problem that the field keeps evaluating as a static one, a point we followed up on with [label delays in malware detection pipelines](https://www.sciencedirect.com/science/article/abs/pii/S0167404824004279) (Computers & Security, 2025). Elsewhere the same methods apply to energy and the environment: real-time energy pricing in New Zealand (PRICAI, 2024), edge machine learning for solar power forecasting (FiCloud, 2025), and the [TAIAO](https://taiao.ai/) environmental data science programme.
 
-
-### Survey on Online Streaming Continual Learning.
-N Gunasekara, B Pfahringer, HM Gomes, A Bifet. 
-International Joint Conference on Artificial Intelligence (IJCAI), 2023. [Paper](https://www.ijcai.org/proceedings/2023/0743.pdf)
-
-This survey explores the intersection of Continual Learning (CL) and Streaming Learning (SL). This papers includes a gentle introduction to SL and CL, then we point out new research trends and directions for future research.
-
-
-### A Survey on Semi-Supervised Learning for Delayed Partially Labelled Data Streams
-H M Gomes, M Grzenda, R Mello, J Read, M H L Nguyen, A Bifet. ACM Computing Surveys, 2022.
-DOI: [https://doi.org/10.1145/3523055](https://doi.org/10.1145/3523055)
-
-We organise methods that leverage unlabelled data in a semi-supervised setting for streaming data. We also discuss the delayed labelling issue, which impacts both fully supervised and semi-supervised methods.
-
-### Streaming Random Patches for Evolving Data Stream Classification
-H M Gomes, J Read, A Bifet. IEEE International Conference on Data Mining (ICDM), 2019. DOI: [https://doi.org/10.1109/ICDM.2019.00034](https://doi.org/10.1109/ICDM.2019.00034)
-
-The Streaming Random Patches (SRP) algorithm outperforms the current state-of-the-art ensemble methods for evolving data stream classification. [Paper](https://www.researchgate.net/publication/338943432_Streaming_Random_Patches_for_Evolving_Data_Stream_Classification)
-
-### Machine learning for streaming data: state of the art, challenges, and opportunities
-H M Gomes, J Read, A Bifet, J P Barddal, J Gama. SIGKDD Explorations Newsletter, ACM , 2019. DOI: [https://doi.org/10.1145/3373464.3373470](https://doi.org/10.1145/3373464.3373470)
- 
-In this work, we focus on elucidating the connections among the current stateof-the-art on related fields; and clarifying open challenges in both academia and industry. [Paper](https://www.researchgate.net/publication/337581742_Machine_learning_for_streaming_data_state_of_the_art_challenges_and_opportunities)
-
-### A Survey on Ensemble Learning for Data Stream Classification
-H M Gomes, J P Barddal, F Enembreck, A Bifet. ACM Computing Surveys 50, 2, Article 23, 2017. DOI: [https://doi.org/10.1145/3054925](https://doi.org/10.1145/3054925)
- 
-This paper contains a comprehensive survey about ensemble learning for data streams.  [Paper](https://www.researchgate.net/publication/315698712_A_Survey_on_Ensemble_Learning_for_Data_Stream_Classification)
-
-### Adaptive random forests for evolving data stream classiﬁcation
-H M Gomes, A Bifet, J Read, ..., B Pfahringer, G Holmes, T Abdessalem. Machine Learning, Springer, 2017. DOI: [https://doi.org/10.1007/s10994-017-5642-8](https://doi.org/10.1007/s10994-017-5642-8)
- 
-This paper presents an efficent version of the classical Random Forests algorithm for evolving data streams, namely the Adaptive Random Forest (ARF) algorithm. [Paper](https://www.researchgate.net/publication/317579226_Adaptive_random_forests_for_evolving_data_stream_classification)
-
+A full list is available on the [publications page](/publications/).
