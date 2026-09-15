@@ -2,7 +2,7 @@
 title: "Machine Learning for Spark Streaming with StreamDM"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2018-ECML-Tutorial-Dublin
+permalink: /talks/2018-IJCNN-Tutorial-RioDeJaneiro
 venue: "Barra da Tijuca Beach Windsor"
 date: 2018-07-08
 location: "Rio de Janeiro, Brazil"
