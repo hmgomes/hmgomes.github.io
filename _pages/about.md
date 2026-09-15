@@ -43,7 +43,7 @@ Research Focus
 
 Models that keep training on data whose distribution keeps moving, under strict time and memory budgets. Much of this work is on ensembles: [Adaptive Random Forests](https://doi.org/10.1007/s10994-017-5642-8) (Machine Learning, 2017) and [Streaming Random Patches](https://doi.org/10.1109/ICDM.2019.00034) (ICDM, 2019) remain the baselines the area builds on.
 
-In practice labels rarely arrive on time, or at all. SLEADE (IEEE TKDE, 2025) learns from sparsely labelled streams through disagreement, our [survey on semi-supervised learning for delayed partially labelled data streams](https://doi.org/10.1145/3523055) (ACM Computing Surveys, 2022) maps the problem space, and [delayed labelling evaluation](https://link.springer.com/article/10.1007/s10618-019-00654-y) (DAMI, 2019) addresses how to measure any of it fairly.
+In practice labels rarely arrive on time, or at all. [SLEADE](https://ieeexplore.ieee.org/document/11313633) (IEEE TKDE, 2025) learns from sparsely labelled streams through disagreement, our [survey on semi-supervised learning for delayed partially labelled data streams](https://doi.org/10.1145/3523055) (ACM Computing Surveys, 2022) maps the problem space, and [delayed labelling evaluation](https://link.springer.com/article/10.1007/s10618-019-00654-y) (DAMI, 2019) addresses how to measure any of it fairly.
 
 ### Concept drift: detection, evaluation, simulation and engineering
 
@@ -59,6 +59,6 @@ I chaired the Streaming Continual Learning bridge program at AAAI 2026 in Singap
 
 ### Machine learning for security and applied domains
 
-Much of this work is driven by domains where the data never stops arriving and the conditions keep changing. In security, [machine learning (in) security: a stream of problems](https://dl.acm.org/doi/pdf/10.1145/3617897) (ACM DTRAP, 2024) argues that malware detection is a streaming problem that the field keeps evaluating as a static one, a point we followed up on with label delays in malware detection pipelines (Computers & Security, 2025). Elsewhere the same methods apply to energy and the environment: real-time energy pricing in New Zealand (PRICAI, 2024), edge machine learning for solar power forecasting (FiCloud, 2025), and the [TAIAO](https://taiao.ai/) environmental data science programme.
+Much of this work is driven by domains where the data never stops arriving and the conditions keep changing. In security, [machine learning (in) security: a stream of problems](https://dl.acm.org/doi/pdf/10.1145/3617897) (ACM DTRAP, 2024) argues that malware detection is a streaming problem that the field keeps evaluating as a static one, a point we followed up on with [label delays in malware detection pipelines](https://www.sciencedirect.com/science/article/abs/pii/S0167404824004279) (Computers & Security, 2025). Elsewhere the same methods apply to energy and the environment: real-time energy pricing in New Zealand (PRICAI, 2024), edge machine learning for solar power forecasting (FiCloud, 2025), and the [TAIAO](https://taiao.ai/) environmental data science programme.
 
 A full list is available on the [publications page](/publications/).
