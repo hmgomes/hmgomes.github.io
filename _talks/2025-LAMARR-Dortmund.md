@@ -4,7 +4,8 @@ collection: talks
 type: "Seminar"
 permalink: /talks/2025-LAMARR-Dortmund
 venue: "LAMARR lab, TU Dortmund"
-date: 2025-06-01
+date: 2025-07-01
+date_display: "2025"
 location: "Dortmund, Germany"
 ---
 

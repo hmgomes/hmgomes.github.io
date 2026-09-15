@@ -4,7 +4,8 @@ collection: talks
 type: "Lecture"
 permalink: /talks/2024-IOT-Stream-Paris
 venue: "École Polytechnique"
-date: 2024-11-01
+date: 2024-07-01
+date_display: "2024 – 2025"
 location: "Paris, France"
 ---
 
