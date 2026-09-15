@@ -34,25 +34,18 @@ I lead the development of [CapyMOA](https://capymoa.org/), a machine learning li
 * CapyMOA Github: [https://github.com/adaptive-machine-learning/CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA)
 * Discord: [join here](https://discord.gg/spd2gQJGAb)
 
-AAAI 2026 Bridge: Streaming Continual Learning
-=====
-
-I chair the Streaming Continual Learning bridge program at AAAI 2026 in Singapore. The bridge brings together the streaming learning and continual learning communities around the problems they share: adapting to non-stationary data, learning under strict resource limits, and evaluating models that never stop training.
-
-* Website: [https://streamingcl.capymoa.org/](https://streamingcl.capymoa.org/)
-
 Research Focus
 ======
 
 ### Learning from evolving data streams
 
-Models that keep training on data whose distribution keeps moving, under strict time and memory budgets. Much of this work is on ensembles — [Adaptive Random Forests](https://doi.org/10.1007/s10994-017-5642-8) (Machine Learning, 2017) and [Streaming Random Patches](https://doi.org/10.1109/ICDM.2019.00034) (ICDM, 2019) remain the baselines the area builds on.
+Models that keep training on data whose distribution keeps moving, under strict time and memory budgets. Much of this work is on ensembles: [Adaptive Random Forests](https://doi.org/10.1007/s10994-017-5642-8) (Machine Learning, 2017) and [Streaming Random Patches](https://doi.org/10.1109/ICDM.2019.00034) (ICDM, 2019) remain the baselines the area builds on.
 
 In practice labels rarely arrive on time, or at all. SLEADE (IEEE TKDE, 2025) learns from sparsely labelled streams through disagreement, our [survey on semi-supervised learning for delayed partially labelled data streams](https://doi.org/10.1145/3523055) (ACM Computing Surveys, 2022) maps the problem space, and [delayed labelling evaluation](https://link.springer.com/article/10.1007/s10618-019-00654-y) (DAMI, 2019) addresses how to measure any of it fairly.
 
 ### Concept drift: detection, evaluation, simulation and engineering
 
-Drift research has a measurement problem: detectors are compared on benchmarks whose drifts are neither realistic nor known. Our framework for evaluating and benchmarking concept drift detection methods (ACM SIGKDD, 2026) is an attempt to fix that, alongside work on simulating drift that behaves like the real thing (Discovery Sciences, 2026) and on detectors that work without ground truth, such as [STUDD](https://link.springer.com/article/10.1007/s10994-022-06188-7) (Machine Learning, 2022) and RMIDDM (DAMI, 2025).
+Drift research has a measurement problem: detectors are compared on benchmarks whose drifts are neither realistic nor known. Our [framework for evaluating and benchmarking concept drift detection methods](https://arxiv.org/abs/2606.07789) (ACM SIGKDD, 2026) is an attempt to fix that, alongside work on simulating drift that behaves like the real thing (Discovery Sciences, 2026) and on detectors that work without ground truth, such as [STUDD](https://link.springer.com/article/10.1007/s10994-022-06188-7) (Machine Learning, 2022) and [RMIDDM](https://doi.org/10.1007/s10618-025-01155-x) (DAMI, 2025).
 
 The engineering side matters as much as the research: [CapyMOA](https://capymoa.org/api/modules/capymoa.drift.html) brings together the largest collection of drift detectors available behind a modern Python API, so that comparing them is a matter of a few lines of code.
 
@@ -60,8 +53,10 @@ The engineering side matters as much as the research: [CapyMOA](https://capymoa.
 
 Neural networks that learn from a stream without replaying everything they have seen. We showed that [Kolmogorov-Arnold Networks still catastrophically forget](https://ojs.aaai.org/index.php/AAAI/article/view/33986), but differently from MLPs (AAAI, 2025), and that anomaly detection ideas can drive class-incremental learning in [SurpriseNet](https://doi.org/10.1145/3583780.3615236) (CIKM, 2023). Our [survey on online streaming continual learning](https://www.ijcai.org/proceedings/2023/0743.pdf) (IJCAI, 2023) sits at the intersection of continual and streaming learning. The methods are available in [CapyMOA's OCL module](https://capymoa.org/api/modules/capymoa.ocl.html).
 
+I also chair the Streaming Continual Learning bridge program at AAAI 2026 in Singapore, which brings the streaming learning and continual learning communities together around the problems they share: adapting to non-stationary data, learning under strict resource limits, and evaluating models that never stop training. The programme website is [streamingcl.capymoa.org](https://streamingcl.capymoa.org/).
+
 ### Machine learning for security and applied domains
 
-Streams are where the applications are. In security, [machine learning (in) security: a stream of problems](https://dl.acm.org/doi/pdf/10.1145/3617897) (ACM DTRAP, 2024) argues that malware detection is a streaming problem that the field keeps evaluating as a static one — a point we followed up on with label delays in malware detection pipelines (Computers & Security, 2025). Elsewhere the same methods apply to energy and the environment: real-time energy pricing in New Zealand (PRICAI, 2024), edge machine learning for solar power forecasting (FiCloud, 2025), and the [TAIAO](https://taiao.ai/) environmental data science programme.
+Streams are where the applications are. In security, [machine learning (in) security: a stream of problems](https://dl.acm.org/doi/pdf/10.1145/3617897) (ACM DTRAP, 2024) argues that malware detection is a streaming problem that the field keeps evaluating as a static one, a point we followed up on with label delays in malware detection pipelines (Computers & Security, 2025). Elsewhere the same methods apply to energy and the environment: real-time energy pricing in New Zealand (PRICAI, 2024), edge machine learning for solar power forecasting (FiCloud, 2025), and the [TAIAO](https://taiao.ai/) environmental data science programme.
 
 A full list is available on the [publications page](/publications/).

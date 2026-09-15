@@ -96,7 +96,14 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+### Victoria University of Wellington
+* AIML431 Current Topics in Artificial Intelligence
+* COMP307 / AIML420 Artificial Intelligence (co-taught)
+* AIML335 Advanced Machine Learning
+* AIML320 Artificial Intelligence
+* AIML232 Techniques in Artificial Intelligence
+
+### University of Waikato
+* COMPX523 Data Stream Mining (2020 to 2022)
 
