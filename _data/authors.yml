@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Heitor Murilo Gomes:
+  name        : "Heitor Murilo Gomes"
+  uri         : "https://heitorgomes.com"
+  bio         : "Machine Learning Researcher, Data Scientist and Senior Lecturer (Assistant Prof) at VuW."
+  avatar      : "heitor_headphoto.jpg"
+  googlescholar : "https://scholar.google.com/citations?user=DYVIl8oAAAAJ"
+  github      : "hmgomes"
+  orcid       : "https://orcid.org/0000-0002-5276-637X"

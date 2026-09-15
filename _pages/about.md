@@ -12,7 +12,7 @@ redirect_from:
 I am a Machine Learning Researcher and Data Scientist. Currently, I am a Senior Lecturer (Assistant Professor) in AI at the Victoria University of Wellington (VuW), New Zealand. 
 Before joining VuW, I worked at the University of Waikato as a Senior Researcher and Co-Director of the AI Institute. 
 My main research area is on Adaptive Machine Learning, which includes machine learning for data streams and, more recently, online continual learning. 
-For collaborations and inquires about PhD positions reach out through my institutional email. 
+For collaborations and inquiries about PhD positions reach out through my institutional email (heitor.gomes at vuw.ac.nz). 
 <!-- Previously, I am an associate researcher at the [AI Institute](https://ai.waikato.ac.nz) at the University of Waikato.  -->
 
 CapyMOA
@@ -88,5 +88,5 @@ This paper contains a comprehensive survey about ensemble learning for data stre
 ### Adaptive random forests for evolving data stream classiﬁcation
 H M Gomes, A Bifet, J Read, ..., B Pfahringer, G Holmes, T Abdessalem. Machine Learning, Springer, 2017. DOI: [https://doi.org/10.1007/s10994-017-5642-8](https://doi.org/10.1007/s10994-017-5642-8)
  
-This paper presents an efficent version of the classical Random Forests algorithm for evolving data streams, namely the Adaptive Random Forest (ARF) algorithm. [Paper](https://www.researchgate.net/publication/317579226_Adaptive_random_forests_for_evolving_data_stream_classification)
+This paper presents an efficient version of the classical Random Forests algorithm for evolving data streams, namely the Adaptive Random Forest (ARF) algorithm. [Paper](https://www.researchgate.net/publication/317579226_Adaptive_random_forests_for_evolving_data_stream_classification)
 

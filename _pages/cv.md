@@ -53,7 +53,7 @@ Udacity Machine Learning Engineer Nanodegree - 2016-2021; -->
 * Editorial board. Machine Learning journal - Springer, 2022-ongoing. 
 * Publicity chair. PRICAI 2025, Wellington, New Zealand. 
 * Nectar track chair. ECML PKDD 2024. Vilnius, Lithuania. 
-* AusDM’22 Research PC Chair, Sidney, Australia, 2022. 
+* AusDM’22 Research PC Chair, Sydney, Australia, 2022. 
 * IEEE International Conference on Data Mining (ICDM) 2021. Online Experience/Virtual Chair. Auckland, New Zealand. [Website](https://icdm2021.auckland.ac.nz/organisation/)
 * Track co-chair. ACM Symposium on Applied Computing Data Streams Track. In conjunction with ACM Symposium on Applied Computing. 2021, 2022, 2023, 2024, 2025, 2026. 
 * Second International Workshop on Energy Efficient Scalable Data Mining and Machine Learning. Co-located with ECML PKDD 2019. Würzburg, Germany. [Website](https://greendatamining.github.io/greendatamining19/). 
@@ -76,7 +76,7 @@ Since 2017 I contribute or have contributed as PC member/Senior PC member for th
 
 
 ### PhD Examination
-* 2025 Examiner for Marco Heyden, Karlsruher Institut für Tehchnologie (KIT). Thesis title: Efficient Decision-Making in Data Streams under Limited Feedback. 
+* 2025 Examiner for Marco Heyden, Karlsruher Institut für Technologie (KIT). Thesis title: Efficient Decision-Making in Data Streams under Limited Feedback. 
 * 2025 Examiner for Jingrui Zhang, University of Auckland. Thesis title: Explainable Anomaly Detection with Few Labeled Data. 
 * 2024 Examiner for Christian Raymond, Victoria University of Wellington. Thesis title: Meta-Learning Loss Functions for Deep Neural Networks. 
 * 2023 Examiner for Katharina Dost, University of Auckland. Thesis title: Selection Bias Identification and Mitigation With No Ground Truth Information. 

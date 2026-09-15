@@ -26,7 +26,7 @@ Data Mining and Knowledge Discovery, 2025.
 
 * **Dynamic Ensemble Member Selection for Data Stream Classification.** 
 Y Sun, B Pfahringer, H M Gomes, A Bifet. 
-ACM Internation Conference on Information and Knowledge Management (CIKM), 2025.
+ACM International Conference on Information and Knowledge Management (CIKM), 2025.
 
 * **RMIDDM: An unsupervised and interpretable concept drift detection method for data streams.**
 R Neto, B Alencar, H M Gomes, A Bifet, J Gama, G Cassales, R Rios. 
@@ -129,7 +129,7 @@ H M Gomes, M Grzenda, R Mello, J Read, M Huong Le Nguyen, A Bifet.
 ACM Computing Surveys, 2022. 
 
 * **SOKNL: A novel way of integrating K-nearest neighbours with adaptive random forest regression for data streams.**
-Y Sun, A Pfahringer, H M Gomes, A Bifet. 
+Y Sun, B Pfahringer, H M Gomes, A Bifet. 
 Data Mining and Knowledge Discovery, 2022.
 
 * **STUDD: a student–teacher method for unsupervised concept drift detection.**
