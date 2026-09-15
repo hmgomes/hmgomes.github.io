@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+<a href="https://www.nzaiolympiad.org/"><img src="/images/nzaio-logo.png" alt="New Zealand AI Olympiad" style="float: right; width: 110px; max-width: 30%; margin: 0 0 1em 1.5em;"></a>
+
 I am a Machine Learning Researcher and Data Scientist. Currently, I am a Senior Lecturer (Associate Professor) in AI at the Victoria University of Wellington (VuW), New Zealand. 
 Before joining VuW, I worked at the University of Waikato as a Senior Researcher and Co-Director of the AI Institute. 
 My main research area is on Adaptive Machine Learning, which includes machine learning for data streams and, more recently, online continual learning. 
@@ -19,14 +21,9 @@ For collaborations and inquiries about PhD positions reach out through my instit
 Adaptive AI Lab
 =====
 
-At Victoria University of Wellington I work in the [Adaptive AI lab](https://ecs.wgtn.ac.nz/Groups/AdaptiveAI/), where our research covers adaptive machine learning, learning from data streams, and online continual learning.
+<a href="https://ecs.wgtn.ac.nz/Groups/AdaptiveAI/"><img src="/images/adaptive-ai-lab-logo.png" alt="Adaptive AI Lab" style="width: 300px; max-width: 70%; margin: 0 0 1em 0;"></a>
 
-AAAI 2026 Bridge: Streaming Continual Learning
-=====
-
-I chair the Streaming Continual Learning bridge program at AAAI 2026 in Singapore. The bridge brings together the streaming learning and continual learning communities around the problems they share: adapting to non-stationary data, learning under strict resource limits, and evaluating models that never stop training.
-
-* Website: [https://streamingcl.capymoa.org/](https://streamingcl.capymoa.org/)
+I founded the [Adaptive AI Lab](https://ecs.wgtn.ac.nz/Groups/AdaptiveAI/) at Victoria University of Wellington. Our research covers adaptive machine learning, learning from data streams and online continual learning, and increasingly agentic AI for software engineering.
 
 CapyMOA
 =====
@@ -35,7 +32,14 @@ I lead the development of [CapyMOA](https://capymoa.org/), a machine learning li
 
 * Website: [https://capymoa.org/](https://capymoa.org/)
 * CapyMOA Github: [https://github.com/adaptive-machine-learning/CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA)
-* We had plenty of tutorials in 2024-2025, including: PAKDD (Taipei, Taiwan), IJCAI (Jeju, South Korea), KDD (Barcelona, Spain), ECML (Vilnius, Lithuania), KiwiPycon (Wellington, NZ) and ICONIP (Auckland, NZ), ICDE (Hong Kong, SAR China), PAKDD (Sydney, Australia), PRICAI (Wellington, NZ) and more. Material is available on the CapyMOA discord [here](https://discord.gg/spd2gQJGAb)
+* Discord: [join here](https://discord.gg/spd2gQJGAb)
+
+AAAI 2026 Bridge: Streaming Continual Learning
+=====
+
+I chair the Streaming Continual Learning bridge program at AAAI 2026 in Singapore. The bridge brings together the streaming learning and continual learning communities around the problems they share: adapting to non-stationary data, learning under strict resource limits, and evaluating models that never stop training.
+
+* Website: [https://streamingcl.capymoa.org/](https://streamingcl.capymoa.org/)
 
 Selected Publications
 ======
