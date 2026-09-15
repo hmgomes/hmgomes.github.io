@@ -5,6 +5,7 @@ type: "Lecture"
 permalink: /talks/2025-UoW-lecture
 venue: "University of Waikato"
 date: 2025-05-01
+date_display: "2025"
 location: "Hamilton, New Zealand"
 ---
 
