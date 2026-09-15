@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Machine Learning for Data Streams"
+title                    : "Adaptive AI"
 title_separator          : "-"
 name                     : &name "Heitor Murilo Gomes"
 description              : &description "Heitor Murilo Gomes - Senior Lecturer in Artificial Intelligence at Victoria University of Wellington. Research on adaptive machine learning, data streams and online continual learning."

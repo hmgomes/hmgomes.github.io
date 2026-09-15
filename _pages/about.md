@@ -12,8 +12,21 @@ redirect_from:
 I am a Machine Learning Researcher and Data Scientist. Currently, I am a Senior Lecturer (Associate Professor) in AI at the Victoria University of Wellington (VuW), New Zealand. 
 Before joining VuW, I worked at the University of Waikato as a Senior Researcher and Co-Director of the AI Institute. 
 My main research area is on Adaptive Machine Learning, which includes machine learning for data streams and, more recently, online continual learning. 
+I also founded and currently chair the [New Zealand Artificial Intelligence Olympiad](https://www.nzaiolympiad.org/), a non-profit organisation established in December 2025. 
 For collaborations and inquiries about PhD positions reach out through my institutional email (heitor.gomes at vuw.ac.nz). 
 <!-- Previously, I am an associate researcher at the [AI Institute](https://ai.waikato.ac.nz) at the University of Waikato.  -->
+
+Adaptive AI Lab
+=====
+
+At Victoria University of Wellington I work in the [Adaptive AI lab](https://ecs.wgtn.ac.nz/Groups/AdaptiveAI/), where our research covers adaptive machine learning, learning from data streams, and online continual learning.
+
+AAAI 2026 Bridge: Streaming Continual Learning
+=====
+
+I chair the Streaming Continual Learning bridge program at AAAI 2026 in Singapore. The bridge brings together the streaming learning and continual learning communities around the problems they share: adapting to non-stationary data, learning under strict resource limits, and evaluating models that never stop training.
+
+* Website: [https://streamingcl.capymoa.org/](https://streamingcl.capymoa.org/)
 
 CapyMOA
 =====

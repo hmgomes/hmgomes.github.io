@@ -12,6 +12,7 @@ redirect_from:
 
  Work experience
 ======
+* 2025 – Current, Chairperson, New Zealand Artificial Intelligence Olympiad Incorporated, New Zealand. [Website](https://www.nzaiolympiad.org/)
 * 2022 – Current, Senior Lecturer (Associate Professor) in Artificial Intelligence at Victoria University of Wellington, Wellington, New Zealand
 * 2019 – 2022, Senior Research Fellow, Hamilton, New Zealand
 * 2017 – 2019, Postdoctoral Researcher at Télécom ParisTech, Paris, France
